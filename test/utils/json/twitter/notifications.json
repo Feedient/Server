@@ -1,0 +1,3215 @@
+[
+	{
+		"created_at": "Tue May 27 10:00:29 +0000 2014",
+		"id": 471229444607471600,
+		"id_str": "471229444607471617",
+		"text": "@thebillkidy heel interessant! @ThijsFeryn zal de slides zeker delen 😊 #techorama",
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+		"truncated": false,
+		"in_reply_to_status_id": 471227627970527200,
+		"in_reply_to_status_id_str": "471227627970527232",
+		"in_reply_to_user_id": 68936285,
+		"in_reply_to_user_id_str": "68936285",
+		"in_reply_to_screen_name": "thebillkidy",
+		"user": {
+			"id": 24679951,
+			"id_str": "24679951",
+			"name": "Alexander V.",
+			"screen_name": "Vanwynsberghea",
+			"location": "Houthulst",
+			"description": "Generation Y pur sang | Entrepreneur | Collaboration architect @CronosGroep Social Media & Enterprise Social | Microsoft MVP | Tweets in Dutch & English",
+			"url": "http://t.co/xzpulgLL8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/xzpulgLL8u",
+							"expanded_url": "http://www.alexandervanwynsberghe.be",
+							"display_url": "alexandervanwynsberghe.be",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 805,
+			"friends_count": 889,
+			"listed_count": 36,
+			"created_at": "Mon Mar 16 11:53:42 +0000 2009",
+			"favourites_count": 580,
+			"utc_offset": 7200,
+			"time_zone": "Brussels",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12992,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0F0A02",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453532357706780674/YTl-9s95.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453532357706780674/YTl-9s95.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/453530333720215553/wSmtZLy2_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/453530333720215553/wSmtZLy2_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24679951/1396965751",
+			"profile_link_color": "8A7302",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "171106",
+			"profile_text_color": "473623",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "techorama",
+					"indices": [
+						71,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ThijsFeryn",
+					"name": "Thijs Feryn",
+					"id": 15132333,
+					"id_str": "15132333",
+					"indices": [
+						31,
+						42
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Tue May 20 20:27:02 +0000 2014",
+		"id": 468850408660934660,
+		"id_str": "468850408660934658",
+		"text": "@thebillkidy als ik moet kiezen tussen landen, pak ik er het weer nog wel bij ;)\nhoe is uw Duits intussen? :D",
+		"source": "web",
+		"truncated": false,
+		"in_reply_to_status_id": 468849881386201100,
+		"in_reply_to_status_id_str": "468849881386201088",
+		"in_reply_to_user_id": 68936285,
+		"in_reply_to_user_id_str": "68936285",
+		"in_reply_to_screen_name": "thebillkidy",
+		"user": {
+			"id": 1079067571,
+			"id_str": "1079067571",
+			"name": "Robbie",
+			"screen_name": "Desertfix",
+			"location": "Temse, Belgium",
+			"description": "Zin, onzin & alles daartussen - twintiger - Musical & Theater - Love Life! - Kdg Antwerp",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74,
+			"friends_count": 167,
+			"listed_count": 0,
+			"created_at": "Fri Jan 11 09:24:12 +0000 2013",
+			"favourites_count": 501,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 489,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "251810",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/460734879882170368/dr_PxmMQ.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/460734879882170368/dr_PxmMQ.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/462961145708421123/mgQQJjhR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/462961145708421123/mgQQJjhR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1079067571/1397156371",
+			"profile_link_color": "187A18",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "1D110A",
+			"profile_text_color": "A98E6F",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						0,
+						12
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Tue May 20 09:51:04 +0000 2014",
+		"id": 468690360710230000,
+		"id_str": "468690360710230016",
+		"text": "Ge hebt van die vrienden met grote ideëen, maar wat als ze die ook écht uitwerken? @thebillkidy just went &amp; did it! http://t.co/Quv7oVvzdI",
+		"source": "web",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1079067571,
+			"id_str": "1079067571",
+			"name": "Robbie",
+			"screen_name": "Desertfix",
+			"location": "Temse, Belgium",
+			"description": "Zin, onzin & alles daartussen - twintiger - Musical & Theater - Love Life! - Kdg Antwerp",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74,
+			"friends_count": 167,
+			"listed_count": 0,
+			"created_at": "Fri Jan 11 09:24:12 +0000 2013",
+			"favourites_count": 501,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 489,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "251810",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/460734879882170368/dr_PxmMQ.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/460734879882170368/dr_PxmMQ.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/462961145708421123/mgQQJjhR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/462961145708421123/mgQQJjhR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1079067571/1397156371",
+			"profile_link_color": "187A18",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "1D110A",
+			"profile_text_color": "A98E6F",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [
+				{
+					"url": "http://t.co/Quv7oVvzdI",
+					"expanded_url": "http://tinyurl.com/kpn5kv6",
+					"display_url": "tinyurl.com/kpn5kv6",
+					"indices": [
+						120,
+						142
+					]
+				}
+			],
+			"user_mentions": [
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						83,
+						95
+					]
+				}
+			]
+		},
+		"favorited": true,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Sun May 18 21:59:30 +0000 2014",
+		"id": 468148902718218240,
+		"id_str": "468148902718218240",
+		"text": "@thebillkidy We'll do another giveaway in a few weeks from now.",
+		"source": "web",
+		"truncated": false,
+		"in_reply_to_status_id": 468116748613742600,
+		"in_reply_to_status_id_str": "468116748613742593",
+		"in_reply_to_user_id": 68936285,
+		"in_reply_to_user_id_str": "68936285",
+		"in_reply_to_screen_name": "thebillkidy",
+		"user": {
+			"id": 32499999,
+			"id_str": "32499999",
+			"name": "CloudFlare",
+			"screen_name": "CloudFlare",
+			"location": "San Francisco, CA",
+			"description": "The Web Performance & Security Company.",
+			"url": "http://t.co/SiLvmue9fJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/SiLvmue9fJ",
+							"expanded_url": "http://www.cloudflare.com",
+							"display_url": "cloudflare.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30979,
+			"friends_count": 6538,
+			"listed_count": 907,
+			"created_at": "Fri Apr 17 17:58:28 +0000 2009",
+			"favourites_count": 1410,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27962,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/443625341668429824/bD2X48op.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/443625341668429824/bD2X48op.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000008353437/f2c8fc175f72e8cbaf5c65d752953143_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000008353437/f2c8fc175f72e8cbaf5c65d752953143_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/32499999/1401292977",
+			"profile_link_color": "007FD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CFE5EE",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						0,
+						12
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 17 13:58:38 +0000 2014",
+		"id": 467665498575220740,
+		"id_str": "467665498575220736",
+		"text": "3 jonge ondernemende studenten beginnen start-up @FeedientApp http://t.co/CbEttiLQ5z , succes @AdriVanHoudt_ @thebillkidy @jesperlindstrom",
+		"source": "web",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1469289390,
+			"id_str": "1469289390",
+			"name": "Velocitas",
+			"screen_name": "Velocitas_BE",
+			"location": "BeNeLux",
+			"description": "Holistic Business Development since 2006",
+			"url": "http://t.co/3Al36GfMsa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/3Al36GfMsa",
+							"expanded_url": "http://www.velocitas-group.com",
+							"display_url": "velocitas-group.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 114,
+			"friends_count": 278,
+			"listed_count": 3,
+			"created_at": "Thu May 30 09:09:41 +0000 2013",
+			"favourites_count": 32,
+			"utc_offset": 7200,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 113,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/422440741072166913/rWv7PuDB_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/422440741072166913/rWv7PuDB_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [
+				{
+					"url": "http://t.co/CbEttiLQ5z",
+					"expanded_url": "http://bit.ly/1lvhCg9",
+					"display_url": "bit.ly/1lvhCg9",
+					"indices": [
+						62,
+						84
+					]
+				}
+			],
+			"user_mentions": [
+				{
+					"screen_name": "FeedientApp",
+					"name": "Feedient",
+					"id": 1890081169,
+					"id_str": "1890081169",
+					"indices": [
+						49,
+						61
+					]
+				},
+				{
+					"screen_name": "AdriVanHoudt_",
+					"name": "Adri Van Houdt",
+					"id": 1929645762,
+					"id_str": "1929645762",
+					"indices": [
+						94,
+						108
+					]
+				},
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						109,
+						121
+					]
+				},
+				{
+					"screen_name": "jesperlindstrom",
+					"name": "Jesper Lindström",
+					"id": 1975582495,
+					"id_str": "1975582495",
+					"indices": [
+						122,
+						138
+					]
+				}
+			]
+		},
+		"favorited": true,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Thu May 15 16:42:25 +0000 2014",
+		"id": 466981940613382140,
+		"id_str": "466981940613382144",
+		"text": "@TheWinPhan @thebillkidy @FeedientApp Check out the Nokia Remote Access service http://t.co/la8qrESP8b #wpdev",
+		"source": "web",
+		"truncated": false,
+		"in_reply_to_status_id": 466980811343138800,
+		"in_reply_to_status_id_str": "466980811343138816",
+		"in_reply_to_user_id": 944488182,
+		"in_reply_to_user_id_str": "944488182",
+		"in_reply_to_screen_name": "TheWinPhan",
+		"user": {
+			"id": 36053210,
+			"id_str": "36053210",
+			"name": "George Spyrou",
+			"screen_name": "gspyrou",
+			"location": "",
+			"description": "Physics graduate , Software Engineer ,  @plusappsdoteu founder ,  @appcampus allumni #wpdev #win8dev #iOS #android",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 893,
+			"friends_count": 1996,
+			"listed_count": 32,
+			"created_at": "Tue Apr 28 12:36:19 +0000 2009",
+			"favourites_count": 139,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10935,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000716170817/6ce838223e38577b26e246bd5e508eab_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000716170817/6ce838223e38577b26e246bd5e508eab_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36053210/1398336530",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "2ee7eeaa84dbe65a",
+			"url": "https://api.twitter.com/1.1/geo/id/2ee7eeaa84dbe65a.json",
+			"place_type": "country",
+			"name": "Greece",
+			"full_name": "Greece",
+			"country_code": "GR",
+			"country": "Greece",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							19.3729582,
+							34.8020213
+						],
+						[
+							29.6430578,
+							34.8020213
+						],
+						[
+							29.6430578,
+							41.7485356
+						],
+						[
+							19.3729582,
+							41.7485356
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wpdev",
+					"indices": [
+						103,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"urls": [
+				{
+					"url": "http://t.co/la8qrESP8b",
+					"expanded_url": "http://developer.nokia.com/resources/remote-device-access",
+					"display_url": "developer.nokia.com/resources/remo…",
+					"indices": [
+						80,
+						102
+					]
+				}
+			],
+			"user_mentions": [
+				{
+					"screen_name": "TheWinPhan",
+					"name": "Sean Johnson",
+					"id": 944488182,
+					"id_str": "944488182",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"screen_name": "FeedientApp",
+					"name": "Feedient",
+					"id": 1890081169,
+					"id_str": "1890081169",
+					"indices": [
+						25,
+						37
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 15 16:37:56 +0000 2014",
+		"id": 466980811343138800,
+		"id_str": "466980811343138816",
+		"text": "@thebillkidy @FeedientApp That's fantastic news! If you need #windowsphone test devices, there are #wpdev programs to help you out. :)",
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+		"truncated": false,
+		"in_reply_to_status_id": 466969462902882300,
+		"in_reply_to_status_id_str": "466969462902882304",
+		"in_reply_to_user_id": 68936285,
+		"in_reply_to_user_id_str": "68936285",
+		"in_reply_to_screen_name": "thebillkidy",
+		"user": {
+			"id": 944488182,
+			"id_str": "944488182",
+			"name": "Sean Johnson",
+			"screen_name": "TheWinPhan",
+			"location": "Global",
+			"description": "I'm the founder of the #WinPhan community! I tweet about #windowsphone. Join our #Global #WinPhan #ScavengerHunt #Giveaway today! http://t.co/VG7ikxkBIx",
+			"url": "http://t.co/VG7ikxkBIx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VG7ikxkBIx",
+							"expanded_url": "http://bit.ly/1lZq5Jl",
+							"display_url": "bit.ly/1lZq5Jl",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/VG7ikxkBIx",
+							"expanded_url": "http://bit.ly/1lZq5Jl",
+							"display_url": "bit.ly/1lZq5Jl",
+							"indices": [
+								130,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2053,
+			"friends_count": 1577,
+			"listed_count": 53,
+			"created_at": "Mon Nov 12 20:09:07 +0000 2012",
+			"favourites_count": 11066,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17876,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "111111",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433815568303415296/bSpBEhQd.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433815568303415296/bSpBEhQd.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/456818372487835649/tKVfOk-F_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/456818372487835649/tKVfOk-F_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/944488182/1397138466",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "windowsphone",
+					"indices": [
+						61,
+						74
+					]
+				},
+				{
+					"text": "wpdev",
+					"indices": [
+						99,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "FeedientApp",
+					"name": "Feedient",
+					"id": 1890081169,
+					"id_str": "1890081169",
+					"indices": [
+						13,
+						25
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 15 11:12:12 +0000 2014",
+		"id": 466898839526707200,
+		"id_str": "466898839526707200",
+		"text": "Feedient in Trends, proficiat @AdriVanHoudt_ @thebillkidy en @jeeppson  http://t.co/rtZu5KvwHB",
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1721486461,
+			"id_str": "1721486461",
+			"name": "THINK with people",
+			"screen_name": "THINKwpeople",
+			"location": "Belgium",
+			"description": "THINK with people helps people with an innovative idea build a successful company. #startups #entrepreneurs #science #technology #innovation",
+			"url": "http://t.co/X5z34M0dZK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/X5z34M0dZK",
+							"expanded_url": "http://www.thinkwithpeople.be",
+							"display_url": "thinkwithpeople.be",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 728,
+			"friends_count": 1202,
+			"listed_count": 10,
+			"created_at": "Mon Sep 02 06:54:41 +0000 2013",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 219,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000631745704/9073730664d827cd51bede26ec877417_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000631745704/9073730664d827cd51bede26ec877417_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1721486461/1378301211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [
+				{
+					"url": "http://t.co/rtZu5KvwHB",
+					"expanded_url": "http://buff.ly/1lCNKQD",
+					"display_url": "buff.ly/1lCNKQD",
+					"indices": [
+						72,
+						94
+					]
+				}
+			],
+			"user_mentions": [
+				{
+					"screen_name": "AdriVanHoudt_",
+					"name": "Adri Van Houdt",
+					"id": 1929645762,
+					"id_str": "1929645762",
+					"indices": [
+						30,
+						44
+					]
+				},
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						45,
+						57
+					]
+				},
+				{
+					"screen_name": "jeeppson",
+					"name": "Jesper Lindström",
+					"id": 456690768,
+					"id_str": "456690768",
+					"indices": [
+						61,
+						70
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed May 14 19:35:56 +0000 2014",
+		"id": 466663221060177900,
+		"id_str": "466663221060177921",
+		"text": "@AdriVanHoudt_ @thebillkidy { key: ... key: ...\n} mag ni en ios i18n files gebruike zo'n tag meerdere kere als ge json na xml = fail",
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"truncated": false,
+		"in_reply_to_status_id": 466662672633966600,
+		"in_reply_to_status_id_str": "466662672633966592",
+		"in_reply_to_user_id": 1929645762,
+		"in_reply_to_user_id_str": "1929645762",
+		"in_reply_to_screen_name": "AdriVanHoudt_",
+		"user": {
+			"id": 15923614,
+			"id_str": "15923614",
+			"name": "Mo",
+			"screen_name": "MoBinni",
+			"location": "Belgium",
+			"description": "Programmer - Foody - Sales Promoter",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74,
+			"friends_count": 238,
+			"listed_count": 0,
+			"created_at": "Wed Aug 20 21:33:30 +0000 2008",
+			"favourites_count": 136,
+			"utc_offset": -7200,
+			"time_zone": "Greenland",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1040,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000061696041/af9fa40e95a421bbdad074ff62908d62.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000061696041/af9fa40e95a421bbdad074ff62908d62.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000376235444/476e88a5289372f86b3c3812a1fb7954_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000376235444/476e88a5289372f86b3c3812a1fb7954_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15923614/1377722260",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdriVanHoudt_",
+					"name": "Adri Van Houdt",
+					"id": 1929645762,
+					"id_str": "1929645762",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						15,
+						27
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Wed May 14 19:33:46 +0000 2014",
+		"id": 466662672633966600,
+		"id_str": "466662672633966592",
+		"text": "@MoBinni @thebillkidy duplicate property names? :O",
+		"source": "<a href=\"http://feedient.com/\" rel=\"nofollow\">Feedient</a>",
+		"truncated": false,
+		"in_reply_to_status_id": 466657486570020860,
+		"in_reply_to_status_id_str": "466657486570020864",
+		"in_reply_to_user_id": 15923614,
+		"in_reply_to_user_id_str": "15923614",
+		"in_reply_to_screen_name": "MoBinni",
+		"user": {
+			"id": 1929645762,
+			"id_str": "1929645762",
+			"name": "Adri Van Houdt",
+			"screen_name": "AdriVanHoudt_",
+			"location": "",
+			"description": "Developer @FeedientApp and a fanatic snowboarder\n#willprogramforbeer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 128,
+			"listed_count": 0,
+			"created_at": "Thu Oct 03 06:52:31 +0000 2013",
+			"favourites_count": 62,
+			"utc_offset": 7200,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 483,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000541467443/5ee9fc3dc6cb9ab83e6e262ab3ac08c2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000541467443/5ee9fc3dc6cb9ab83e6e262ab3ac08c2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1929645762/1398237876",
+			"profile_link_color": "DD4B39",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "MoBinni",
+					"name": "Mo",
+					"id": 15923614,
+					"id_str": "15923614",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						9,
+						21
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "es"
+	},
+	{
+		"created_at": "Wed May 14 19:13:09 +0000 2014",
+		"id": 466657486570020860,
+		"id_str": "466657486570020864",
+		"text": "@thebillkidy coz json objects dont support duplicate property names and those are used by jsontoxml as element tag values",
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"truncated": false,
+		"in_reply_to_status_id": 466517467972370400,
+		"in_reply_to_status_id_str": "466517467972370432",
+		"in_reply_to_user_id": 68936285,
+		"in_reply_to_user_id_str": "68936285",
+		"in_reply_to_screen_name": "thebillkidy",
+		"user": {
+			"id": 15923614,
+			"id_str": "15923614",
+			"name": "Mo",
+			"screen_name": "MoBinni",
+			"location": "Belgium",
+			"description": "Programmer - Foody - Sales Promoter",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74,
+			"friends_count": 238,
+			"listed_count": 0,
+			"created_at": "Wed Aug 20 21:33:30 +0000 2008",
+			"favourites_count": 136,
+			"utc_offset": -7200,
+			"time_zone": "Greenland",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1040,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000061696041/af9fa40e95a421bbdad074ff62908d62.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000061696041/af9fa40e95a421bbdad074ff62908d62.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000376235444/476e88a5289372f86b3c3812a1fb7954_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000376235444/476e88a5289372f86b3c3812a1fb7954_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15923614/1377722260",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						0,
+						12
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon May 12 14:44:59 +0000 2014",
+		"id": 465865224835571700,
+		"id_str": "465865224835571712",
+		"text": "@thebillkidy heb ik dat echt nodig aangezien ik Slim gebruik om te routen en alleen maar een Rest Api maak?",
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"truncated": false,
+		"in_reply_to_status_id": 465863736218378240,
+		"in_reply_to_status_id_str": "465863736218378240",
+		"in_reply_to_user_id": 68936285,
+		"in_reply_to_user_id_str": "68936285",
+		"in_reply_to_screen_name": "thebillkidy",
+		"user": {
+			"id": 747437005,
+			"id_str": "747437005",
+			"name": "Andrej",
+			"screen_name": "andrej_be",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 637,
+			"friends_count": 382,
+			"listed_count": 6,
+			"created_at": "Thu Aug 09 15:38:52 +0000 2012",
+			"favourites_count": 1513,
+			"utc_offset": 7200,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3069,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000665331748/e511141665e1d5fba1ff116a214a68c8_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000665331748/e511141665e1d5fba1ff116a214a68c8_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						0,
+						12
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Sat May 10 20:20:08 +0000 2014",
+		"id": 465224790073434100,
+		"id_str": "465224790073434112",
+		"text": "@thebillkidy Yes we are setting it up to be sure nobody will be missing it :) Details later this week. Thx",
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"truncated": false,
+		"in_reply_to_status_id": 465223895176732700,
+		"in_reply_to_status_id_str": "465223895176732672",
+		"in_reply_to_user_id": 68936285,
+		"in_reply_to_user_id_str": "68936285",
+		"in_reply_to_screen_name": "thebillkidy",
+		"user": {
+			"id": 551711040,
+			"id_str": "551711040",
+			"name": "idealabs",
+			"screen_name": "idealabs_BE",
+			"location": "Antwerp, BE",
+			"description": "Telenet Idealabs is a vertical accelerator of 4-8 months that boosts tech and media ideas through seed-funding, intensive mentoring, and a creative workspace",
+			"url": "http://t.co/NtQx7ypSuS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NtQx7ypSuS",
+							"expanded_url": "http://www.telenetidealabs.be",
+							"display_url": "telenetidealabs.be",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4771,
+			"friends_count": 4491,
+			"listed_count": 109,
+			"created_at": "Thu Apr 12 06:47:08 +0000 2012",
+			"favourites_count": 1484,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3024,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00A1E0",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/584715184/041eo7pu0o4rxcb6e6z2.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/584715184/041eo7pu0o4rxcb6e6z2.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/467219328115294208/YdNS01Qc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/467219328115294208/YdNS01Qc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/551711040/1400665738",
+			"profile_link_color": "00A1E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						0,
+						12
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 10 11:28:17 +0000 2014",
+		"id": 465090946204708860,
+		"id_str": "465090946204708864",
+		"text": "@thebillkidy @FeedientApp @instagram Nice one - add those and it becomes even more useful!",
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"truncated": false,
+		"in_reply_to_status_id": 464868297197256700,
+		"in_reply_to_status_id_str": "464868297197256704",
+		"in_reply_to_user_id": 68936285,
+		"in_reply_to_user_id_str": "68936285",
+		"in_reply_to_screen_name": "thebillkidy",
+		"user": {
+			"id": 110979239,
+			"id_str": "110979239",
+			"name": "Andrew Biddle",
+			"screen_name": "BiddlyWiddly",
+			"location": "Here, there, everywhere",
+			"description": "Freelance motoring writer, consumer of information and lover of learning. Read my work with @DMSmediaUK on the @ToyotaGB and @OfficialLexusUK blogs.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 134,
+			"friends_count": 170,
+			"listed_count": 2,
+			"created_at": "Wed Feb 03 12:15:48 +0000 2010",
+			"favourites_count": 324,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5164,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1778313161/Avatar_250x250__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1778313161/Avatar_250x250__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110979239/1398346164",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "FeedientApp",
+					"name": "Feedient",
+					"id": 1890081169,
+					"id_str": "1890081169",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "instagram",
+					"name": "Instagram",
+					"id": 180505807,
+					"id_str": "180505807",
+					"indices": [
+						26,
+						36
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 02 21:05:50 +0000 2014",
+		"id": 462337189066842100,
+		"id_str": "462337189066842112",
+		"text": "@thebillkidy @FeedientApp Works great now! Thanks for fixing :)",
+		"source": "web",
+		"truncated": false,
+		"in_reply_to_status_id": 462336295642341400,
+		"in_reply_to_status_id_str": "462336295642341376",
+		"in_reply_to_user_id": 68936285,
+		"in_reply_to_user_id_str": "68936285",
+		"in_reply_to_screen_name": "thebillkidy",
+		"user": {
+			"id": 32177506,
+			"id_str": "32177506",
+			"name": "Phantium",
+			"screen_name": "Phantium",
+			"location": "Netherlands",
+			"description": "Computer guru, 3D/Graphic artist, Linux Engineer, Voice Actor, Game tester.",
+			"url": "http://t.co/JytyNZ6gmC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/JytyNZ6gmC",
+							"expanded_url": "http://www.youtube.com/Phantium",
+							"display_url": "youtube.com/Phantium",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 52,
+			"listed_count": 7,
+			"created_at": "Thu Apr 16 22:16:05 +0000 2009",
+			"favourites_count": 3,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 607,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4D4539",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/262240736/xee2c0cce82cc639fb50a039f51fd8df.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/262240736/xee2c0cce82cc639fb50a039f51fd8df.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2157051822/Untitled-1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2157051822/Untitled-1_normal.jpg",
+			"profile_link_color": "0E3D70",
+			"profile_sidebar_border_color": "E9DDC5",
+			"profile_sidebar_fill_color": "82B65F",
+			"profile_text_color": "26FF52",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "FeedientApp",
+					"name": "Feedient",
+					"id": 1890081169,
+					"id_str": "1890081169",
+					"indices": [
+						13,
+						25
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 01 17:24:28 +0000 2014",
+		"id": 461919091184644100,
+		"id_str": "461919091184644096",
+		"text": "@thebillkidy @FeedientApp A little advice from a Linux engineer, if you're using apache. set the SSLCertificateChainFile to point to the CA.",
+		"source": "web",
+		"truncated": false,
+		"in_reply_to_status_id": 461901084273811460,
+		"in_reply_to_status_id_str": "461901084273811456",
+		"in_reply_to_user_id": 68936285,
+		"in_reply_to_user_id_str": "68936285",
+		"in_reply_to_screen_name": "thebillkidy",
+		"user": {
+			"id": 32177506,
+			"id_str": "32177506",
+			"name": "Phantium",
+			"screen_name": "Phantium",
+			"location": "Netherlands",
+			"description": "Computer guru, 3D/Graphic artist, Linux Engineer, Voice Actor, Game tester.",
+			"url": "http://t.co/JytyNZ6gmC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/JytyNZ6gmC",
+							"expanded_url": "http://www.youtube.com/Phantium",
+							"display_url": "youtube.com/Phantium",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 52,
+			"listed_count": 7,
+			"created_at": "Thu Apr 16 22:16:05 +0000 2009",
+			"favourites_count": 3,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 607,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4D4539",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/262240736/xee2c0cce82cc639fb50a039f51fd8df.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/262240736/xee2c0cce82cc639fb50a039f51fd8df.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2157051822/Untitled-1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2157051822/Untitled-1_normal.jpg",
+			"profile_link_color": "0E3D70",
+			"profile_sidebar_border_color": "E9DDC5",
+			"profile_sidebar_fill_color": "82B65F",
+			"profile_text_color": "26FF52",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "FeedientApp",
+					"name": "Feedient",
+					"id": 1890081169,
+					"id_str": "1890081169",
+					"indices": [
+						13,
+						25
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 01 17:20:22 +0000 2014",
+		"id": 461918062380593150,
+		"id_str": "461918062380593152",
+		"text": "@thebillkidy @FeedientApp The http://t.co/b96zpXC6Q6 certificate is used on the site causing this window to appear... http://t.co/ApeqBMdVip",
+		"source": "web",
+		"truncated": false,
+		"in_reply_to_status_id": 461901084273811460,
+		"in_reply_to_status_id_str": "461901084273811456",
+		"in_reply_to_user_id": 68936285,
+		"in_reply_to_user_id_str": "68936285",
+		"in_reply_to_screen_name": "thebillkidy",
+		"user": {
+			"id": 32177506,
+			"id_str": "32177506",
+			"name": "Phantium",
+			"screen_name": "Phantium",
+			"location": "Netherlands",
+			"description": "Computer guru, 3D/Graphic artist, Linux Engineer, Voice Actor, Game tester.",
+			"url": "http://t.co/JytyNZ6gmC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/JytyNZ6gmC",
+							"expanded_url": "http://www.youtube.com/Phantium",
+							"display_url": "youtube.com/Phantium",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 52,
+			"listed_count": 7,
+			"created_at": "Thu Apr 16 22:16:05 +0000 2009",
+			"favourites_count": 3,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 607,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4D4539",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/262240736/xee2c0cce82cc639fb50a039f51fd8df.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/262240736/xee2c0cce82cc639fb50a039f51fd8df.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2157051822/Untitled-1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2157051822/Untitled-1_normal.jpg",
+			"profile_link_color": "0E3D70",
+			"profile_sidebar_border_color": "E9DDC5",
+			"profile_sidebar_fill_color": "82B65F",
+			"profile_text_color": "26FF52",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [
+				{
+					"url": "http://t.co/b96zpXC6Q6",
+					"expanded_url": "http://api.feedient.com",
+					"display_url": "api.feedient.com",
+					"indices": [
+						30,
+						52
+					]
+				},
+				{
+					"url": "http://t.co/ApeqBMdVip",
+					"expanded_url": "http://imgur.com/1jxdwqe",
+					"display_url": "imgur.com/1jxdwqe",
+					"indices": [
+						118,
+						140
+					]
+				}
+			],
+			"user_mentions": [
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "FeedientApp",
+					"name": "Feedient",
+					"id": 1890081169,
+					"id_str": "1890081169",
+					"indices": [
+						13,
+						25
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 30 13:05:09 +0000 2014",
+		"id": 461491446642921500,
+		"id_str": "461491446642921472",
+		"text": "@thebillkidy @FeedientApp awesome! Thanks for the quick fix ❤️",
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"truncated": false,
+		"in_reply_to_status_id": 461475891168935940,
+		"in_reply_to_status_id_str": "461475891168935936",
+		"in_reply_to_user_id": 68936285,
+		"in_reply_to_user_id_str": "68936285",
+		"in_reply_to_screen_name": "thebillkidy",
+		"user": {
+			"id": 2201295080,
+			"id_str": "2201295080",
+			"name": "Paddy",
+			"screen_name": "ipaddey",
+			"location": "Plymouth",
+			"description": "Apple | Web Development | Curious",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22,
+			"friends_count": 127,
+			"listed_count": 0,
+			"created_at": "Mon Nov 18 13:15:17 +0000 2013",
+			"favourites_count": 6,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/460184148171165696/YkoDjF_Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/460184148171165696/YkoDjF_Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2201295080/1398551843",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "FeedientApp",
+					"name": "Feedient",
+					"id": 1890081169,
+					"id_str": "1890081169",
+					"indices": [
+						13,
+						25
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 30 09:01:21 +0000 2014",
+		"id": 461430090011009000,
+		"id_str": "461430090011009024",
+		"text": "@thebillkidy @FeedientApp Ah, vandaar.. Ik vond het al bijzonder dat alleen Nederlands in het lijstje stond ;)",
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"truncated": false,
+		"in_reply_to_status_id": 461419221302247400,
+		"in_reply_to_status_id_str": "461419221302247425",
+		"in_reply_to_user_id": 68936285,
+		"in_reply_to_user_id_str": "68936285",
+		"in_reply_to_screen_name": "thebillkidy",
+		"user": {
+			"id": 28551406,
+			"id_str": "28551406",
+			"name": "Robert Lindeboom",
+			"screen_name": "RobertL87",
+			"location": "Twente, Nederland",
+			"description": "Informatieanalist | All-round-ICT | Early Adopter | #Multimedia | #Wetenschapscommunicatie | Bruggen slaan tussen #wetenschap en mensen | Liefhebber #fotografie",
+			"url": "http://t.co/GB3GHnHclf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/GB3GHnHclf",
+							"expanded_url": "http://robertlindeboom.nl",
+							"display_url": "robertlindeboom.nl",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 355,
+			"friends_count": 351,
+			"listed_count": 9,
+			"created_at": "Fri Apr 03 12:26:11 +0000 2009",
+			"favourites_count": 6,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4553,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3C5556",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000050627754/9c5511a6bdb238d8952708ae3470f032.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000050627754/9c5511a6bdb238d8952708ae3470f032.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/471269300024520704/R1EL0Hgy_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/471269300024520704/R1EL0Hgy_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28551406/1398274016",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "FeedientApp",
+					"name": "Feedient",
+					"id": 1890081169,
+					"id_str": "1890081169",
+					"indices": [
+						13,
+						25
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Tue Apr 29 20:39:21 +0000 2014",
+		"id": 461243362620629000,
+		"id_str": "461243362620628992",
+		"text": "@thebillkidy @FeedientApp any plans to add customizable columns and mobile apps?",
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"truncated": false,
+		"in_reply_to_status_id": 461235757068210200,
+		"in_reply_to_status_id_str": "461235757068210176",
+		"in_reply_to_user_id": 68936285,
+		"in_reply_to_user_id_str": "68936285",
+		"in_reply_to_screen_name": "thebillkidy",
+		"user": {
+			"id": 2479403458,
+			"id_str": "2479403458",
+			"name": "Shawn Plays",
+			"screen_name": "ShawnPlaysHD",
+			"location": "Indiana, USA",
+			"description": "#LetsPlay'er, good guy, almost 40, http://t.co/JplIOt9Ln7, gamertag: BoomshotActual",
+			"url": "http://t.co/iHlBXZaExG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iHlBXZaExG",
+							"expanded_url": "http://shawnplays.com",
+							"display_url": "shawnplays.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/JplIOt9Ln7",
+							"expanded_url": "http://twitch.tv/ShawnPlays",
+							"display_url": "twitch.tv/ShawnPlays",
+							"indices": [
+								35,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 51,
+			"friends_count": 203,
+			"listed_count": 3,
+			"created_at": "Sat Apr 12 17:43:58 +0000 2014",
+			"favourites_count": 77,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 670,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/467108294893391872/c5F4O7Il.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/467108294893391872/c5F4O7Il.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/457850245125132288/MVujD-bq_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/457850245125132288/MVujD-bq_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2479403458/1398791701",
+			"profile_link_color": "90AC38",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "FeedientApp",
+					"name": "Feedient",
+					"id": 1890081169,
+					"id_str": "1890081169",
+					"indices": [
+						13,
+						25
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 28 19:08:42 +0000 2014",
+		"id": 460858162682540000,
+		"id_str": "460858162682540034",
+		"text": "@thebillkidy @FeedientApp Proficiat!",
+		"source": "<a href=\"http://benbridts.be\" rel=\"nofollow\">een gsm</a>",
+		"truncated": false,
+		"in_reply_to_status_id": 460849892249047040,
+		"in_reply_to_status_id_str": "460849892249047040",
+		"in_reply_to_user_id": 68936285,
+		"in_reply_to_user_id_str": "68936285",
+		"in_reply_to_screen_name": "thebillkidy",
+		"user": {
+			"id": 14058200,
+			"id_str": "14058200",
+			"name": "Ben Bridts",
+			"screen_name": "ikB3N",
+			"location": "51.11826,4.346029",
+			"description": "Onsterfelijk tot het tegendeel bewezen is.",
+			"url": "http://t.co/4YrUboCibC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/4YrUboCibC",
+							"expanded_url": "http://benbridts.be",
+							"display_url": "benbridts.be",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 326,
+			"friends_count": 244,
+			"listed_count": 2,
+			"created_at": "Fri Feb 29 00:20:41 +0000 2008",
+			"favourites_count": 253,
+			"utc_offset": 7200,
+			"time_zone": "Brussels",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2368,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/458901945042747392/oDERrogg_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/458901945042747392/oDERrogg_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "FeedientApp",
+					"name": "Feedient",
+					"id": 1890081169,
+					"id_str": "1890081169",
+					"indices": [
+						13,
+						25
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr"
+	},
+	{
+		"created_at": "Mon Apr 28 18:55:06 +0000 2014",
+		"id": 460854737470890000,
+		"id_str": "460854737470889984",
+		"text": "@AdriVanHoudt_ @thebillkidy #Cause #Swag",
+		"source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+		"truncated": false,
+		"in_reply_to_status_id": 460854584588894200,
+		"in_reply_to_status_id_str": "460854584588894208",
+		"in_reply_to_user_id": 1929645762,
+		"in_reply_to_user_id_str": "1929645762",
+		"in_reply_to_screen_name": "AdriVanHoudt_",
+		"user": {
+			"id": 893737771,
+			"id_str": "893737771",
+			"name": "Jeroen Druwé",
+			"screen_name": "JeroenDruwe",
+			"location": "Antwerp",
+			"description": "Multimedia - applicatieontwikkeling",
+			"url": "http://t.co/o4LbIct747",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/o4LbIct747",
+							"expanded_url": "http://jeroendruwe.be",
+							"display_url": "jeroendruwe.be",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11,
+			"friends_count": 12,
+			"listed_count": 0,
+			"created_at": "Sat Oct 20 18:03:32 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/448183803622592512/-8BZ_GGs.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/448183803622592512/-8BZ_GGs.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/448161411449880576/PebEmm7l_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/448161411449880576/PebEmm7l_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893737771/1395691251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Cause",
+					"indices": [
+						28,
+						34
+					]
+				},
+				{
+					"text": "Swag",
+					"indices": [
+						35,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdriVanHoudt_",
+					"name": "Adri Van Houdt",
+					"id": 1929645762,
+					"id_str": "1929645762",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						15,
+						27
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 28 18:54:29 +0000 2014",
+		"id": 460854584588894200,
+		"id_str": "460854584588894208",
+		"text": "@JeroenDruwe y u no tag people? @thebillkidy :P",
+		"source": "web",
+		"truncated": false,
+		"in_reply_to_status_id": 460853138682294300,
+		"in_reply_to_status_id_str": "460853138682294272",
+		"in_reply_to_user_id": 893737771,
+		"in_reply_to_user_id_str": "893737771",
+		"in_reply_to_screen_name": "JeroenDruwe",
+		"user": {
+			"id": 1929645762,
+			"id_str": "1929645762",
+			"name": "Adri Van Houdt",
+			"screen_name": "AdriVanHoudt_",
+			"location": "",
+			"description": "Developer @FeedientApp and a fanatic snowboarder\n#willprogramforbeer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 128,
+			"listed_count": 0,
+			"created_at": "Thu Oct 03 06:52:31 +0000 2013",
+			"favourites_count": 62,
+			"utc_offset": 7200,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 483,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000541467443/5ee9fc3dc6cb9ab83e6e262ab3ac08c2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000541467443/5ee9fc3dc6cb9ab83e6e262ab3ac08c2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1929645762/1398237876",
+			"profile_link_color": "DD4B39",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "JeroenDruwe",
+					"name": "Jeroen Druwé",
+					"id": 893737771,
+					"id_str": "893737771",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						32,
+						44
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 28 07:51:35 +0000 2014",
+		"id": 460687760471629800,
+		"id_str": "460687760471629824",
+		"text": "@thebillkidy yes but that didn't fit into the tweet haha",
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"truncated": false,
+		"in_reply_to_status_id": 460671087739953150,
+		"in_reply_to_status_id_str": "460671087739953152",
+		"in_reply_to_user_id": 68936285,
+		"in_reply_to_user_id_str": "68936285",
+		"in_reply_to_screen_name": "thebillkidy",
+		"user": {
+			"id": 1975582495,
+			"id_str": "1975582495",
+			"name": "Jesper Lindström",
+			"screen_name": "jesperlindstrom",
+			"location": "Älmhult, Sweden",
+			"description": "Web developer, designer, JavaScript addict, 18 year old. Founder of @FeedientApp.",
+			"url": "http://t.co/SMwMk7GZs8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/SMwMk7GZs8",
+							"expanded_url": "http://jesperlindstrom.me",
+							"display_url": "jesperlindstrom.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 135,
+			"friends_count": 377,
+			"listed_count": 6,
+			"created_at": "Sun Oct 20 15:58:36 +0000 2013",
+			"favourites_count": 69,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 137,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/418035142146260993/lhAUtb1k_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/418035142146260993/lhAUtb1k_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1975582495/1398193658",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						0,
+						12
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 22 18:39:38 +0000 2014",
+		"id": 458676517451886600,
+		"id_str": "458676517451886593",
+		"text": "@thebillkidy @jesperlindstrom CHECK",
+		"source": "web",
+		"truncated": false,
+		"in_reply_to_status_id": 458674233594613760,
+		"in_reply_to_status_id_str": "458674233594613762",
+		"in_reply_to_user_id": 68936285,
+		"in_reply_to_user_id_str": "68936285",
+		"in_reply_to_screen_name": "thebillkidy",
+		"user": {
+			"id": 68936285,
+			"id_str": "68936285",
+			"name": "Xavier Geerinck",
+			"screen_name": "thebillkidy",
+			"location": "Belgium",
+			"description": "Founder of http://t.co/j6xL4OBJbI - Passionate Backend developer",
+			"url": "http://t.co/Aut2xOh7mb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Aut2xOh7mb",
+							"expanded_url": "http://www.feedient.com",
+							"display_url": "feedient.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/j6xL4OBJbI",
+							"expanded_url": "http://Feedient.com",
+							"display_url": "Feedient.com",
+							"indices": [
+								11,
+								33
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 102,
+			"friends_count": 123,
+			"listed_count": 2,
+			"created_at": "Wed Aug 26 08:58:57 +0000 2009",
+			"favourites_count": 49,
+			"utc_offset": 7200,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 379,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "202323",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/456802921674338305/2aDIRVJ3.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/456802921674338305/2aDIRVJ3.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000420433052/105e0e16a81ac4d171a6660a6efe7ceb_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000420433052/105e0e16a81ac4d171a6660a6efe7ceb_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68936285/1389108042",
+			"profile_link_color": "1EAD90",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "jesperlindstrom",
+					"name": "Jesper Lindström",
+					"id": 1975582495,
+					"id_str": "1975582495",
+					"indices": [
+						13,
+						29
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Apr 18 10:57:29 +0000 2014",
+		"id": 457110663392157700,
+		"id_str": "457110663392157696",
+		"text": "@thebillkidy @Uber @Airbnb :D",
+		"source": "web",
+		"truncated": false,
+		"in_reply_to_status_id": 457105403151925250,
+		"in_reply_to_status_id_str": "457105403151925248",
+		"in_reply_to_user_id": 68936285,
+		"in_reply_to_user_id_str": "68936285",
+		"in_reply_to_screen_name": "thebillkidy",
+		"user": {
+			"id": 1929645762,
+			"id_str": "1929645762",
+			"name": "Adri Van Houdt",
+			"screen_name": "AdriVanHoudt_",
+			"location": "",
+			"description": "Developer @FeedientApp and a fanatic snowboarder\n#willprogramforbeer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 128,
+			"listed_count": 0,
+			"created_at": "Thu Oct 03 06:52:31 +0000 2013",
+			"favourites_count": 62,
+			"utc_offset": 7200,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 483,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000541467443/5ee9fc3dc6cb9ab83e6e262ab3ac08c2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000541467443/5ee9fc3dc6cb9ab83e6e262ab3ac08c2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1929645762/1398237876",
+			"profile_link_color": "DD4B39",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Uber",
+					"name": "Uber",
+					"id": 19103481,
+					"id_str": "19103481",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"screen_name": "Airbnb",
+					"name": "Airbnb",
+					"id": 17416571,
+					"id_str": "17416571",
+					"indices": [
+						19,
+						26
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Tue Apr 15 13:31:33 +0000 2014",
+		"id": 456062273489231900,
+		"id_str": "456062273489231872",
+		"text": "It's alive! #nlp #internship with @thebillkidy",
+		"source": "web",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1929645762,
+			"id_str": "1929645762",
+			"name": "Adri Van Houdt",
+			"screen_name": "AdriVanHoudt_",
+			"location": "",
+			"description": "Developer @FeedientApp and a fanatic snowboarder\n#willprogramforbeer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 128,
+			"listed_count": 0,
+			"created_at": "Thu Oct 03 06:52:31 +0000 2013",
+			"favourites_count": 62,
+			"utc_offset": 7200,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 483,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000541467443/5ee9fc3dc6cb9ab83e6e262ab3ac08c2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000541467443/5ee9fc3dc6cb9ab83e6e262ab3ac08c2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1929645762/1398237876",
+			"profile_link_color": "DD4B39",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nlp",
+					"indices": [
+						12,
+						16
+					]
+				},
+				{
+					"text": "internship",
+					"indices": [
+						17,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						34,
+						46
+					]
+				}
+			]
+		},
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Apr 12 18:09:06 +0000 2014",
+		"id": 455044956957466600,
+		"id_str": "455044956957466624",
+		"text": "@thebillkidy you can send me an email to mnassar@blizzard.com and I will reply as soon as possible!",
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"truncated": false,
+		"in_reply_to_status_id": 455042562588696600,
+		"in_reply_to_status_id_str": "455042562588696576",
+		"in_reply_to_user_id": 68936285,
+		"in_reply_to_user_id_str": "68936285",
+		"in_reply_to_screen_name": "thebillkidy",
+		"user": {
+			"id": 601577203,
+			"id_str": "601577203",
+			"name": "Michael Nassar",
+			"screen_name": "mike_nassar",
+			"location": "Irvine, CA",
+			"description": "Senior Recruiter @ Blizzard Entertainment on the hunt for the most epic talent in gaming...ever! Are you ready for your next quest?",
+			"url": "http://t.co/ybPDEooyzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ybPDEooyzj",
+							"expanded_url": "http://jobs.blizzard.com",
+							"display_url": "jobs.blizzard.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 505,
+			"friends_count": 115,
+			"listed_count": 30,
+			"created_at": "Thu Jun 07 05:10:57 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 145,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/445693576148549632/XyszOkmj_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/445693576148549632/XyszOkmj_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/601577203/1384471960",
+			"profile_link_color": "2692EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						0,
+						12
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Apr 11 08:15:23 +0000 2014",
+		"id": 454533156063182850,
+		"id_str": "454533156063182848",
+		"text": "@thebillkidy well existing accounts will be supported \"indefinitely\". Let's hope that's a long time.",
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+		"truncated": false,
+		"in_reply_to_status_id": 454512531391143940,
+		"in_reply_to_status_id_str": "454512531391143936",
+		"in_reply_to_user_id": 68936285,
+		"in_reply_to_user_id_str": "68936285",
+		"in_reply_to_screen_name": "thebillkidy",
+		"user": {
+			"id": 2786631,
+			"id_str": "2786631",
+			"name": "Jamie Thomson",
+			"screen_name": "jamiet",
+			"location": "Hanworth Park, Middlesex",
+			"description": "Dad, husband, atheist, data geek.",
+			"url": "http://t.co/YTMUReIDju",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YTMUReIDju",
+							"expanded_url": "http://sqlblog.com/blogs/jamie_thomson/",
+							"display_url": "sqlblog.com/blogs/jamie_th…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2417,
+			"friends_count": 516,
+			"listed_count": 191,
+			"created_at": "Thu Mar 29 04:15:51 +0000 2007",
+			"favourites_count": 136,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20151,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136131817/jt_gravatar2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136131817/jt_gravatar2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2786631/1398238980",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						0,
+						12
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 09 15:49:07 +0000 2014",
+		"id": 453922566466703360,
+		"id_str": "453922566466703360",
+		"text": "@ikB3N @thebillkidy :D not everyone thinks in sql like you sysadmins",
+		"source": "web",
+		"truncated": false,
+		"in_reply_to_status_id": 453921772807921660,
+		"in_reply_to_status_id_str": "453921772807921664",
+		"in_reply_to_user_id": 14058200,
+		"in_reply_to_user_id_str": "14058200",
+		"in_reply_to_screen_name": "ikB3N",
+		"user": {
+			"id": 1929645762,
+			"id_str": "1929645762",
+			"name": "Adri Van Houdt",
+			"screen_name": "AdriVanHoudt_",
+			"location": "",
+			"description": "Developer @FeedientApp and a fanatic snowboarder\n#willprogramforbeer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 128,
+			"listed_count": 0,
+			"created_at": "Thu Oct 03 06:52:31 +0000 2013",
+			"favourites_count": 62,
+			"utc_offset": 7200,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 483,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000541467443/5ee9fc3dc6cb9ab83e6e262ab3ac08c2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000541467443/5ee9fc3dc6cb9ab83e6e262ab3ac08c2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1929645762/1398237876",
+			"profile_link_color": "DD4B39",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [],
+			"user_mentions": [
+				{
+					"screen_name": "ikB3N",
+					"name": "Ben Bridts",
+					"id": 14058200,
+					"id_str": "14058200",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "thebillkidy",
+					"name": "Xavier Geerinck",
+					"id": 68936285,
+					"id_str": "68936285",
+					"indices": [
+						7,
+						19
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	}
+]

@@ -1,0 +1,1046 @@
+[
+	{
+		"created_at": "Thu May 29 14:40:07 +0000 2014",
+		"id": 472024592957964300,
+		"id_str": "472024592957964289",
+		"text": "What the Head of Hiring at Google Doesnt Understand About Skills http://t.co/4Avw7uFrIS (http://t.co/1sxFT3W5dE)",
+		"source": "<a href=\"http://news.ycombinator.com\" rel=\"nofollow\">newsyc</a>",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 148969874,
+			"id_str": "148969874",
+			"name": "Hacker News 20",
+			"screen_name": "newsyc20",
+			"location": "Silicon Valley, Calif.",
+			"description": "Tweeting Hacker News stories as soon as they reach 20 points. Maintained by @jeffmiller. There's also @newsyc50, @newsyc100, @newsyc150.",
+			"url": "http://t.co/qTgjQ1bLt6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/qTgjQ1bLt6",
+							"expanded_url": "http://bit.ly/newsyctwitter",
+							"display_url": "bit.ly/newsyctwitter",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12999,
+			"friends_count": 0,
+			"listed_count": 803,
+			"created_at": "Fri May 28 02:33:26 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84503,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/224692672/IMG_2595.JPG",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/224692672/IMG_2595.JPG",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081970640/yclogo_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081970640/yclogo_normal.gif",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [
+				{
+					"url": "http://t.co/4Avw7uFrIS",
+					"expanded_url": "http://bit.ly/1gDPZ71",
+					"display_url": "bit.ly/1gDPZ71",
+					"indices": [
+						65,
+						87
+					]
+				},
+				{
+					"url": "http://t.co/1sxFT3W5dE",
+					"expanded_url": "http://bit.ly/ShJYSm",
+					"display_url": "bit.ly/ShJYSm",
+					"indices": [
+						89,
+						111
+					]
+				}
+			],
+			"user_mentions": []
+		},
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 29 14:40:07 +0000 2014",
+		"id": 472024592957964300,
+		"id_str": "472024592957964289",
+		"text": "What the Head of Hiring at Google Doesnt Understand About Skills http://t.co/4Avw7uFrIS (http://t.co/1sxFT3W5dE)",
+		"source": "<a href=\"http://news.ycombinator.com\" rel=\"nofollow\">newsyc</a>",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [
+				{
+					"url": "http://t.co/4Avw7uFrIS",
+					"expanded_url": "http://bit.ly/1gDPZ71",
+					"display_url": "bit.ly/1gDPZ71",
+					"indices": [
+						65,
+						87
+					]
+				},
+				{
+					"url": "http://t.co/1sxFT3W5dE",
+					"expanded_url": "http://bit.ly/ShJYSm",
+					"display_url": "bit.ly/ShJYSm",
+					"indices": [
+						89,
+						111
+					]
+				}
+			],
+			"user_mentions": []
+		},
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 29 14:39:06 +0000 2014",
+		"id": 472024337378476000,
+		"id_str": "472024337378476032",
+		"text": "Inky, the simple, auto-sorting email client with lots of \"smart\" features, is now on iOS: http://t.co/wMYUa6o5Lf http://t.co/p3qYW1YThx",
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7144422,
+			"id_str": "7144422",
+			"name": "Lifehacker",
+			"screen_name": "lifehacker",
+			"location": "",
+			"description": "Don't live to geek; geek to live.",
+			"url": "http://t.co/CY03sH1tMd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/CY03sH1tMd",
+							"expanded_url": "http://lifehacker.com",
+							"display_url": "lifehacker.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1292296,
+			"friends_count": 25,
+			"listed_count": 30369,
+			"created_at": "Fri Jun 29 03:44:14 +0000 2007",
+			"favourites_count": 4,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 27359,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F8FAF0",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/737119470/fdd37f1c288b6d195391a05c46f4068d.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/737119470/fdd37f1c288b6d195391a05c46f4068d.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1861146796/Twitter_-_Avatar_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1861146796/Twitter_-_Avatar_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7144422/1355413751",
+			"profile_link_color": "4E9409",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCE4B2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [
+				{
+					"url": "http://t.co/wMYUa6o5Lf",
+					"expanded_url": "http://lifehac.kr/nGfiz3D",
+					"display_url": "lifehac.kr/nGfiz3D",
+					"indices": [
+						90,
+						112
+					]
+				}
+			],
+			"user_mentions": [],
+			"media": [
+				{
+					"id": 472024337214865400,
+					"id_str": "472024337214865408",
+					"indices": [
+						113,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/Boz3okEIAAA3Zm4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Boz3okEIAAA3Zm4.jpg",
+					"url": "http://t.co/p3qYW1YThx",
+					"display_url": "pic.twitter.com/p3qYW1YThx",
+					"expanded_url": "http://twitter.com/lifehacker/status/472024337378476032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 636,
+							"h": 358,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 339,
+							"h": 191,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 598,
+							"h": 337,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 29 14:36:52 +0000 2014",
+		"id": 472023776134041600,
+		"id_str": "472023776134041600",
+		"text": "New post up on evleaks.at: http://t.co/kwYDUvGTRp",
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 788287705,
+			"id_str": "788287705",
+			"name": "@evleaks",
+			"screen_name": "evleaks",
+			"location": "",
+			"description": "Tomorrow's news, yesterday. First @llabtoofer follow. Tips: DM or evleaks[at]evleaks.at. Available in 25 hand-translated foreign-language editions. See:",
+			"url": "http://t.co/uPZZMaW4xT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/uPZZMaW4xT",
+							"expanded_url": "http://evleaks.at/about",
+							"display_url": "evleaks.at/about",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 171643,
+			"friends_count": 968,
+			"listed_count": 2269,
+			"created_at": "Wed Aug 29 01:47:49 +0000 2012",
+			"favourites_count": 572,
+			"utc_offset": -10800,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1265,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458724572271894529/lKASMhbF.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458724572271894529/lKASMhbF.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/470383382577164288/RHoJff8-_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/470383382577164288/RHoJff8-_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/788287705/1398287257",
+			"profile_link_color": "E30416",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [
+				{
+					"url": "http://t.co/kwYDUvGTRp",
+					"expanded_url": "http://evleaks.at/2014/05/29/samsung-galaxy-s5-active-att-full-gallery/",
+					"display_url": "evleaks.at/2014/05/29/sam…",
+					"indices": [
+						27,
+						49
+					]
+				}
+			],
+			"user_mentions": []
+		},
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 29 14:31:03 +0000 2014",
+		"id": 472022313215741950,
+		"id_str": "472022313215741953",
+		"text": "Watch Edward Snowden's interview with NBC right here http://t.co/PwWwkIO9k2",
+		"source": "<a href=\"http://www.aol.com\" rel=\"nofollow\">AOL Blogsmith</a>",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14372486,
+			"id_str": "14372486",
+			"name": "Engadget",
+			"screen_name": "engadget",
+			"location": "New York / San Francisco",
+			"description": "The definitive guide to this connected life.",
+			"url": "http://t.co/0OnwIoHo0y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/0OnwIoHo0y",
+							"expanded_url": "http://engt.co",
+							"display_url": "engt.co",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 981451,
+			"friends_count": 85,
+			"listed_count": 41741,
+			"created_at": "Sun Apr 13 02:42:50 +0000 2008",
+			"favourites_count": 354,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 83776,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/436918710771519488/NWFDS8Aq.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/436918710771519488/NWFDS8Aq.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/458692107188727808/pp_QyGUm_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/458692107188727808/pp_QyGUm_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14372486/1398196704",
+			"profile_link_color": "3498DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "373737",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 13,
+		"favorite_count": 16,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [
+				{
+					"url": "http://t.co/PwWwkIO9k2",
+					"expanded_url": "http://engt.co/1ivorvP",
+					"display_url": "engt.co/1ivorvP",
+					"indices": [
+						53,
+						75
+					]
+				}
+			],
+			"user_mentions": []
+		},
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 29 14:30:07 +0000 2014",
+		"id": 472022078334320640,
+		"id_str": "472022078334320642",
+		"text": "So a female programmer walks into a bar http://t.co/7isrCnxx47 (http://t.co/yX5KjQxame)",
+		"source": "<a href=\"http://news.ycombinator.com\" rel=\"nofollow\">newsyc</a>",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 148969874,
+			"id_str": "148969874",
+			"name": "Hacker News 20",
+			"screen_name": "newsyc20",
+			"location": "Silicon Valley, Calif.",
+			"description": "Tweeting Hacker News stories as soon as they reach 20 points. Maintained by @jeffmiller. There's also @newsyc50, @newsyc100, @newsyc150.",
+			"url": "http://t.co/qTgjQ1bLt6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/qTgjQ1bLt6",
+							"expanded_url": "http://bit.ly/newsyctwitter",
+							"display_url": "bit.ly/newsyctwitter",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12999,
+			"friends_count": 0,
+			"listed_count": 803,
+			"created_at": "Fri May 28 02:33:26 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84503,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/224692672/IMG_2595.JPG",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/224692672/IMG_2595.JPG",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081970640/yclogo_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081970640/yclogo_normal.gif",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [
+				{
+					"url": "http://t.co/7isrCnxx47",
+					"expanded_url": "http://bit.ly/1gDNqSA",
+					"display_url": "bit.ly/1gDNqSA",
+					"indices": [
+						40,
+						62
+					]
+				},
+				{
+					"url": "http://t.co/yX5KjQxame",
+					"expanded_url": "http://bit.ly/ShIKqd",
+					"display_url": "bit.ly/ShIKqd",
+					"indices": [
+						64,
+						86
+					]
+				}
+			],
+			"user_mentions": []
+		},
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 29 14:27:16 +0000 2014",
+		"id": 472021361431691260,
+		"id_str": "472021361431691265",
+		"text": "RT @FrostBight: For those who care, Sriracha has been saved!! The city of Irwindale has dropped all public nuicance charges. http://t.co/19…",
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 262496778,
+			"id_str": "262496778",
+			"name": "|| A Z U R I E L ||",
+			"screen_name": "vmaun",
+			"location": "Irvine, CA",
+			"description": "Headhunter for Blizzard Entertainment. Words are my own; don't represent my employer. Lover of games, comic books, cinema, and football.",
+			"url": "http://t.co/Dufvg4wUg8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Dufvg4wUg8",
+							"expanded_url": "http://www.linkedin.com/in/valmaun/",
+							"display_url": "linkedin.com/in/valmaun/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1737,
+			"friends_count": 1240,
+			"listed_count": 72,
+			"created_at": "Tue Mar 08 04:34:39 +0000 2011",
+			"favourites_count": 925,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15187,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/462009524216279041/rLWyKoni.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/462009524216279041/rLWyKoni.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/432943918871609345/Fljs9JxH_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/432943918871609345/Fljs9JxH_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/262496778/1398590688",
+			"profile_link_color": "9FB7CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 29 14:17:43 +0000 2014",
+			"id": 472018957986451460,
+			"id_str": "472018957986451456",
+			"text": "For those who care, Sriracha has been saved!! The city of Irwindale has dropped all public nuicance charges. http://t.co/19Zj4oBeqF",
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"truncated": false,
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17138097,
+				"id_str": "17138097",
+				"name": "Frost Bight",
+				"screen_name": "FrostBight",
+				"location": "Whittier, CA",
+				"description": "911 operator/dispatcher/office monkey. Licensed bartender for hire. Furry only at cons, Thursdays and Jewish holidays.",
+				"url": "http://t.co/qbMZ36qr0N",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/qbMZ36qr0N",
+								"expanded_url": "http://furaffinity.net/user/frostbight",
+								"display_url": "furaffinity.net/user/frostbight",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 641,
+				"friends_count": 229,
+				"listed_count": 18,
+				"created_at": "Mon Nov 03 19:47:39 +0000 2008",
+				"favourites_count": 86,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23718,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "93CDE6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/681016078/f6e907ba019bbb7cde3ad6b8fd480621.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/681016078/f6e907ba019bbb7cde3ad6b8fd480621.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/452119751280431104/BU8hi-OQ_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/452119751280431104/BU8hi-OQ_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17138097/1396980173",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweet_count": 4,
+			"favorite_count": 2,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"urls": [
+					{
+						"url": "http://t.co/19Zj4oBeqF",
+						"expanded_url": "http://news.yahoo.com/california-city-votes-end-hot-sauce-dispute-053754655.html",
+						"display_url": "news.yahoo.com/california-cit…",
+						"indices": [
+							109,
+							131
+						]
+					}
+				],
+				"user_mentions": []
+			},
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [
+				{
+					"url": "http://t.co/19Zj4oBeqF",
+					"expanded_url": "http://news.yahoo.com/california-city-votes-end-hot-sauce-dispute-053754655.html",
+					"display_url": "news.yahoo.com/california-cit…",
+					"indices": [
+						139,
+						140
+					]
+				}
+			],
+			"user_mentions": [
+				{
+					"screen_name": "FrostBight",
+					"name": "Frost Bight",
+					"id": 17138097,
+					"id_str": "17138097",
+					"indices": [
+						3,
+						14
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 29 14:23:31 +0000 2014",
+		"id": 472020416392101900,
+		"id_str": "472020416392101888",
+		"text": "You can now buy Bitcoin mining hardware from Walmart http://t.co/pIzKf7M4cM http://t.co/Tm71s2GUmd",
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2890961,
+			"id_str": "2890961",
+			"name": "Gizmodo",
+			"screen_name": "Gizmodo",
+			"location": "",
+			"description": "Technologies that change the way we live, work, love, play, think, and feel. @rsorokanich is tweeting at you.",
+			"url": "http://t.co/pRiLjEJ2WU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/pRiLjEJ2WU",
+							"expanded_url": "http://gizmodo.com",
+							"display_url": "gizmodo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 936748,
+			"friends_count": 77,
+			"listed_count": 35219,
+			"created_at": "Thu Mar 29 20:40:39 +0000 2007",
+			"favourites_count": 36,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 26082,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDF6F8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/436934792/gizmodo-twitter-background-final.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/436934792/gizmodo-twitter-background-final.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1860214036/Gizmodo-Twitter-Avatar_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1860214036/Gizmodo-Twitter-Avatar_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2890961/1355760822",
+			"profile_link_color": "3697B3",
+			"profile_sidebar_border_color": "E9E9E9",
+			"profile_sidebar_fill_color": "E9E9E9",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 71,
+		"favorite_count": 28,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [
+				{
+					"url": "http://t.co/pIzKf7M4cM",
+					"expanded_url": "http://gizmo.do/ZUIQhJ5",
+					"display_url": "gizmo.do/ZUIQhJ5",
+					"indices": [
+						53,
+						75
+					]
+				}
+			],
+			"user_mentions": [],
+			"media": [
+				{
+					"id": 472020416266272800,
+					"id_str": "472020416266272768",
+					"indices": [
+						76,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/Boz0EVZIgAAE6Mj.png",
+					"media_url_https": "https://pbs.twimg.com/media/Boz0EVZIgAAE6Mj.png",
+					"url": "http://t.co/Tm71s2GUmd",
+					"display_url": "pic.twitter.com/Tm71s2GUmd",
+					"expanded_url": "http://twitter.com/Gizmodo/status/472020416392101888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 636,
+							"h": 256,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 598,
+							"h": 241,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 337,
+							"h": 136,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 29 14:18:45 +0000 2014",
+		"id": 472019215746998300,
+		"id_str": "472019215746998273",
+		"text": "Hands On With The Avegant Glyph, A Head-Mounted Display For The Average Commuter http://t.co/JAGOJ3pbLy by @drizzled",
+		"source": "<a href=\"http://10up.com\" rel=\"nofollow\">10up Publish Tweet</a>",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816653,
+			"id_str": "816653",
+			"name": "TechCrunch",
+			"screen_name": "TechCrunch",
+			"location": "Silicon Valley",
+			"description": "Breaking Technology News And Opinions From TechCrunch",
+			"url": "http://t.co/FQzFJNIg8e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FQzFJNIg8e",
+							"expanded_url": "http://techcrunch.com",
+							"display_url": "techcrunch.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3545512,
+			"friends_count": 853,
+			"listed_count": 87914,
+			"created_at": "Wed Mar 07 01:27:09 +0000 2007",
+			"favourites_count": 57,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 72801,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "149500",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451389492432080899/mBCpcUP_.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451389492432080899/mBCpcUP_.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/469171480832380928/rkZR1jIh_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/469171480832380928/rkZR1jIh_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1401204346",
+			"profile_link_color": "0888C4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "222222",
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweet_count": 15,
+		"favorite_count": 7,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"urls": [
+				{
+					"url": "http://t.co/JAGOJ3pbLy",
+					"expanded_url": "http://bit.ly/1mv4SGT",
+					"display_url": "bit.ly/1mv4SGT",
+					"indices": [
+						81,
+						103
+					]
+				}
+			],
+			"user_mentions": [
+				{
+					"screen_name": "drizzled",
+					"name": "Darrell Etherington",
+					"id": 15425183,
+					"id_str": "15425183",
+					"indices": [
+						107,
+						116
+					]
+				}
+			]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	}
+]

@@ -1,0 +1,18 @@
+{
+  "name": "FeedientAuthentication",
+  "description": "Adds 'feedient' as a authentication method, this uses a token specified in the Bearer header.",
+  "version": "0.2.0",
+  "private": true,
+  "main": "index",
+  "engines": {
+    "node": ">=0.10.22"
+  },
+  "dependencies": {
+    "hoek": "2.x.x",
+    "boom": "2.x.x",
+    "joi": "^4.6.x"
+  },
+  "peerDependencies": {
+    "hapi": ">=6.x.x"
+  }
+}

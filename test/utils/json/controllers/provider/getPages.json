@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1377203439182867",
+        "name": "Feedient",
+        "access_token": "CAACEdEose0Lvn0SUX9YMFCZCkFcqbwXSFK24seYKN41NZBthSZC2uEPyLEYsdn0vvUrHsxyyeT0kxAKFFeCXlO4HgZAKGXJkJckE147QWsfsFRtyrpPC4ZD",
+        "permissions": [
+            "ADMINISTER",
+            "EDIT_PROFILE",
+            "CREATE_CONTENT",
+            "MODERATE_CONTENT",
+            "CREATE_ADS",
+            "BASIC_ADMIN"
+        ]
+    },
+    {
+        "id": "605013826259682",
+        "name": "UnforgivenWoW",
+        "access_token": "CAACEdEose0cBAFqO2BdMTqRjndVEgVlpEloD7AL9MFXT85BZC9QPgEZBjH6J4jsuvQjzKWZBjSdbXOfnplGrh23wr48tKQ9JbsAZC6zDUWAZD",
+        "permissions": [
+            "EDIT_PROFILE",
+            "CREATE_CONTENT",
+            "MODERATE_CONTENT",
+            "CREATE_ADS",
+            "BASIC_ADMIN"
+        ]
+    },
+    {
+        "id": "372697806178271",
+        "name": "Raxplay",
+        "access_token": "CAACEdEose0cBAEvm4XcGjiBlOTQAoHzsNjNGpxTZBZBlezigDBE95Ic3zzGcWRuHZAdBcliybKTwBxxbcGOY1bhRfufNlBlqNfPNfZAYcHIaIrx3XCGM1nTM4ZB4I3xfdTl0ImynANDC5nZBA4sZD",
+        "permissions": [
+            "ADMINISTER",
+            "EDIT_PROFILE",
+            "CREATE_CONTENT",
+            "MODERATE_CONTENT",
+            "CREATE_ADS",
+            "BASIC_ADMIN"
+        ]
+    },
+    {
+        "id": "314017208656954",
+        "name": "MineFever",
+        "access_token": "CAACEdEose0mahrJ1aLwgLT3pWE7o2IQRzMsXuB3E3GY0AL4rlLPEI5FHlB1RPLFdOqIjO7UcCuB42nIFOM1ZC1zZB3zqQLW1AMP2g0cwkf5yryXGqL3XpLuTQtrFoXmwMB3kZD",
+        "permissions": [
+            "ADMINISTER",
+            "EDIT_PROFILE",
+            "CREATE_CONTENT",
+            "MODERATE_CONTENT",
+            "CREATE_ADS",
+            "BASIC_ADMIN"
+        ]
+    },
+    {
+        "id": "279074658814207",
+        "name": "LegendsDb",
+        "access_token": "CAACEdEoZCCy6VqdtMZBZBBBREawG42UmZAFCSdRDkVh4aPkCyhOZBCBeMrhuNvrYkAWZCJPFO46BWTQQYUSK6Cb0KXZBkYjAyfT2DxT6mut0k1EiB6Nulg6BLVlBpvykalgPgZD",
+        "permissions": [
+            "ADMINISTER",
+            "EDIT_PROFILE",
+            "CREATE_CONTENT",
+            "MODERATE_CONTENT",
+            "CREATE_ADS",
+            "BASIC_ADMIN"
+        ]
+    }
+]

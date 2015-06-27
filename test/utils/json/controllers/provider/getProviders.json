@@ -1,0 +1,77 @@
+[
+    {
+        "id": "536f9a4658992b80138ab919",
+        "order": 1,
+        "date_added": "2014-05-11T15:41:58.373Z",
+        "provider": {
+            "name": "instagram",
+            "username": "feedient",
+            "user_id": "41491221",
+            "full_name": "",
+            "user_avatar": "",
+            "authentication": {
+                "access_token": "41491221.c80009c.9ec4492a242a65f79049f47"
+            }
+        }
+    },
+    {
+        "id": "53745ec4e8ee9ac1069917ee",
+        "order": 2,
+        "date_added": "2014-05-15T06:29:24.855Z",
+        "provider": {
+            "name": "tumblr",
+            "username": "feedient",
+            "user_id": "feedient",
+            "full_name": "feedient",
+            "user_avatar": "",
+            "authentication": {
+                "access_token": "OnW2OHASvde6CNqJsJEI2uYrgszhk1l1RpjEbOxR75GQb"
+            }
+        }
+    },
+    {
+        "id": "537470cbe23a6b310bbb55c8",
+        "order": 3,
+        "date_added": "2014-05-15T07:46:19.832Z",
+        "provider": {
+            "name": "youtube",
+            "username": "Feedient Team",
+            "user_id": "UCdSyeBzNs_wJ1UIPzBMAQ",
+            "full_name": "Feedient Team",
+            "user_avatar": "",
+            "authentication": {
+                "access_token": "ya29.GQAa-HdsG5XJ7iAAA62_C42tw22m7gz91O6Jh7yV-1NjfkuNhtuGbfw"
+            }
+        }
+    },
+    {
+        "id": "5377aa770a7a6355070a0228",
+        "order": 4,
+        "date_added": "2014-05-17T18:29:11.652Z",
+        "provider": {
+            "name": "twitter",
+            "username": "feedient",
+            "user_id": "68936285",
+            "full_name": "feedient",
+            "user_avatar": "",
+            "authentication": {
+                "access_token": "68936285-fgb68RPMoj0Ah5kjDRT7LRV1DfOkaCH2wAvg"
+            }
+        }
+    },
+    {
+        "id": "5377ac4fa2fa701a08bc5490",
+        "order": 5,
+        "date_added": "2014-05-17T18:37:03.573Z",
+        "provider": {
+            "name": "facebook",
+            "username": "",
+            "user_id": "147007794",
+            "full_name": "Feedient Team",
+            "user_avatar": "",
+            "authentication": {
+                "access_token": "CAAGcZCEBAOhbXYYDevd4aU9oKsFkZBuVM9ZAFyXhMZCvfHsV7Iy41ytANORPGzeczaXAP3gr5mRJTqr3uHSTPRiw9Xdb6U2I4qvnuRYSBZAUR9zzYbuMVPyyi50H0HsatZBOj1LZAlTDopILlZBJ9yhU4ZD"
+            }
+        }
+    }
+]

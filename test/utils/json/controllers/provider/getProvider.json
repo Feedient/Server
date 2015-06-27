@@ -1,0 +1,15 @@
+{
+    "id": "5377aa770a7a6355070a0228",
+    "order": 4,
+    "date_added": "2014-05-17T18:29:11.652Z",
+    "provider": {
+        "name": "twitter",
+        "username": "feedient",
+        "user_id": "68936285",
+        "full_name": "feedient",
+        "user_avatar": "",
+        "authentication": {
+            "access_token": "68936285-fgb68RPMoj0Ah5kjDRT7LRV1DfOkaCH2wAvg"
+        }
+    }
+}

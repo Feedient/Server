@@ -1,0 +1,17 @@
+[
+    {
+        "id": "53c16ac586013bf909d99c0c",
+        "order": 5,
+        "date_added": "2014-07-12T17:05:09.804Z",
+        "provider": {
+            "name": "facebook",
+            "username": "FirstNameFacebook LastNameFacebook",
+            "user_id": "14707077184",
+            "full_name": "FirstNameFacebook LastNameFacebook",
+            "user_avatar": "https://graph.facebook.com/v2.1/14707077184/picture?access_token=SOMEACCESSTOKENRETURENDFROMFACEBOOK",
+            "authentication": {
+                "access_token": "SOMEACCESSTOKENRETURENDFROMFACEBOOK"
+            }
+        }
+    }
+]

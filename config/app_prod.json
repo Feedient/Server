@@ -1,0 +1,166 @@
+{
+    "database": {
+        "api_server": {
+            "url": "mongodb://172.17.0.4:27017/feeds",
+            "options": {
+                "db": {
+                    "native_parser": false
+                }
+            }
+        }
+    },
+    "documentation": {
+        "basePath": "https://api.feedient.com",
+        "apiVersion": "2.0.0",
+        "auth": "feedient",
+        "bind": {
+            "requiredRole": "DEVELOPER"
+        }
+    },
+    "msgFormatter": {
+        "fallbackLanguage": "en_GB",
+        "fallbackFile": "errors",
+        "fallbackError": "An unknown error has occurred."
+    },
+    "logger": {
+        "subscribers": {
+            "console": ["log", "request", "ops"],
+            "logs/": ["request", "log", "ops"]
+        },
+        "extendedRequests": true
+    },
+    "client": {
+        "url": "https://feedient.com/",
+        "image_proxy": {
+            "instagram_avatars_images": "https://feedient.com/instagram-avatars-images/",
+            "instagram_avatars_photos_a": "https://feedient.com/instagram-avatars-photos-a/",
+            "instagram_avatars_photos_b": "https://feedient.com/instagram-avatars-photos-b/",
+            "instagram_avatars_photos_c": "https://feedient.com/instagram-avatars-photos-c/",
+            "instagram_avatars_photos_d": "https://feedient.com/instagram-avatars-photos-d/",
+            "instagram_avatars_photos_e": "https://feedient.com/instagram-avatars-photos-e/",
+            "instagram_avatars_photos_f": "https://feedient.com/instagram-avatars-photos-f/",
+            "instagram_avatars_photos_g": "https://feedient.com/instagram-avatars-photos-g/",
+            "instagram_avatars_photos_h": "https://feedient.com/instagram-avatars-photos-h/"
+        }
+    },
+    "server": {
+        "ip": "0.0.0.0",
+        "register_key_only": false,
+        "url": "http://api.feedient.com/",
+        "salt_work_factor": 10,
+        "cors_client_origins": [ "https://feedient.com" ],
+        "cors_headers": [ "Authorization", "Content-Type", "If-None-Match", "Bearer", "x-http-method-override" ],
+        "cors_methods": [ "GET", "HEAD", "POST", "PUT", "DELETE", "OPTIONS" ],
+        "cors_credentials": true,
+        "new_relic_enabled": true,
+        "socket_enabled": true,
+        "profiler": {
+            "enabled": false,
+            "ip": "0.0.0.0",
+            "port": 4001
+        },
+		"tests": {
+            "can_run": false,
+			"can_drop_db": false,
+            "can_init_data": false
+		}
+    },
+    "metrics": {
+        "ip": "127.0.0.1",
+        "port": 8088,
+        "enabled": true
+    },
+    "user": {
+        "default_language": "en_GB",
+        "default_role": "USER",
+        "default_workspace_name": "My Workspace",
+        "refresh_time_days": 7,
+        "roles": {
+            "GUEST": {
+                "rank": 0,
+                "name": "Guest"
+            },
+			"USER": {
+				"rank": 1,
+				"name": "User"
+			},
+            "USER_AD_FREE": {
+                "rank": 2,
+                "name": "User (Ad-Free)"
+            },
+			"PREMIUM": {
+				"rank": 3,
+				"name": "Premium User"
+			},
+            "DEVELOPER": {
+                "rank": 4,
+                "name": "Developer"
+            },
+			"ADMIN": {
+				"rank": 5,
+				"name": "Administrator"
+			}
+		}
+	},
+	"providers": {
+		"facebook": {
+            "clientID": "",
+            "clientSecret": "",
+            "callbackURL": "https://feedient.com/app/callback/facebook",
+            "accessTokenURL": "https://graph.facebook.com/v2.2/oauth/access_token",
+            "apiURL": "https://graph.facebook.com",
+            "apiVersion": "v2.2",
+            "pagesURL": "https://www.facebook.com/pages",
+            "streamTimeout": 90000
+		},
+		"twitter": {
+            "clientID": "",
+            "clientSecret": "",
+            "callbackURL": "https://feedient.com/app/callback/twitter",
+            "accessTokenURL": "https://twitter.com/oauth/access_token",
+            "requestTokenURL": "https://twitter.com/oauth/request_token",
+            "apiURL": "https://api.twitter.com/1.1",
+            "streamTimeout": 90000
+		},
+		"instagram": {
+            "clientID": "",
+            "clientSecret": "",
+            "callbackURL": "https://feedient.com/app/callback/instagram",
+            "accessTokenURL": "https://api.instagram.com/oauth/access_token",
+            "apiURL": "https://api.instagram.com/v1",
+            "streamTimeout": 90000
+		},
+		"youtube": {
+            "clientID": "",
+            "clientSecret": "",
+            "callbackURL": "https://feedient.com/app/callback/youtube",
+            "accessTokenURL": "https://accounts.google.com/o/oauth2/token",
+            "apiURL": "https://gdata.youtube.com/feeds/api",
+            "streamTimeout": 90000,
+            "developer_key": ""
+		},
+        "tumblr": {
+            "clientID": "",
+            "clientSecret": "",
+            "callbackURL": "https://feedient.com/app/callback/tumblr",
+            "accessTokenURL": "http://www.tumblr.com/oauth/access_token",
+            "requestTokenURL": "http://www.tumblr.com/oauth/request_token",
+            "apiURL": "https://api.tumblr.com/v2",
+            "streamTimeout": 90000
+        },
+        "rss": {
+            "streamTimeout": 300000
+        }
+	},
+    "smtp": {
+        "service": "SendGrid",
+        "auth": {
+            "user": "",
+            "pass": ""
+        }
+    },
+    "stripe": {
+        "secret_key": "",
+        "publishable_key": ""
+    }
+}

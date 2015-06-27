@@ -1,0 +1,16 @@
+{
+  "name": "FeedientI18N-Hapi",
+  "description": "Hook that listens on the reply event of hapi, it then gets the outputs and translates the messages.",
+  "version": "0.1.0",
+  "author": "Xavier Geerinck <xavier@feedient.com>",
+  "private": true,
+  "main": "index",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "hapi": "6.x.x",
+    "i18n": "0.x.x",
+    "locale": "0.x.x"
+  }
+}

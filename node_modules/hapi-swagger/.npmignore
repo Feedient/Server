@@ -1,0 +1,15 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+coverage/*
+node_modules
+npm-debug.log
+.DS_Store
+
+public/swaggerui 2.0.8 mod
+public/swaggerui 2.0.10 mod

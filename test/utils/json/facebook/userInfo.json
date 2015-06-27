@@ -1,0 +1,32 @@
+{
+    "id": "14707077184",
+    "birthday": "10/19/1980",
+    "education": [
+
+    ],
+    "email": "email@gmail.com",
+    "favorite_athletes": [
+    ],
+    "favorite_teams": [
+    ],
+    "first_name": "FirstNameFacebook",
+    "gender": "male",
+    "interested_in": [
+        "female"
+    ],
+    "last_name": "LastNameFacebook",
+    "link": "http://www.facebook.com/14707077184",
+    "location": {
+        "id": "1161261732730",
+        "name": "Somewhere Over the Rainbow, Derpland"
+    },
+    "locale": "en_US",
+    "name": "FirstNameFacebook LastNameFacebook",
+    "relationship_status": "Single",
+    "quotes": "",
+    "timezone": 2,
+    "updated_time": "2014-06-28T07:59:31+0000",
+    "verified": true,
+    "work": [
+    ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Feedient-Server",
+  "description": "The Feedient.com api server.",
+  "version": "0.3.0",
+  "private": true,
+  "main": "server",
+  "engines": {
+    "node": ">=0.10.5"
+  },
+  "dependencies": {
+    "async": "~0.9.x",
+    "bcrypt": "*",
+    "boom": "~2.5.x",
+    "colors": "1.0.3",
+    "ejs": "~1.0.x",
+    "good": "4.0.0",
+    "good-console": "^2.0.0",
+    "hapi": "~7.2.x",
+    "hapi-swagger": "^0.4.2",
+    "heapdump": "~0.2.x",
+    "hoek": "~2.8.1",
+    "i18n": "^0.5.0",
+    "joi": "4.7.0",
+    "jshint": "~2.5.10",
+    "jsondiffpatch": "0.1.8",
+    "lab": "5.0.1",
+    "locale": "0.0.17",
+    "mocha": "2.0.1",
+    "mongodb": "2.0.5",
+    "mongoose": "3.8.18",
+    "newrelic": "1.13.2",
+    "nock": "^0.45.*",
+    "nodemailer": "~0.7.1",
+    "oauth": "^0.9.12",
+    "platform": "*",
+    "q": "~1.0.x",
+    "rbytes": "^1.1.0",
+    "request": "~2.40.0",
+    "sha1": "*",
+    "should": "~4.0.x",
+    "sinon": "~1.10.x",
+    "sockjs": "^0.3.10",
+    "stripe": "^3.0.2",
+    "supertest": "~0.13.0",
+    "tumblr.js": "0.0.4",
+    "twit": "^1.1.18",
+    "underscore": "~1.6.0",
+    "wreck": "^3.0.0",
+    "xml2js": "^0.4.4"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "devDependencies": {
+    "istanbul": "^0.3.0",
+    "look": "^0.1.3"
+  }
+}

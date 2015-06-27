@@ -1,0 +1,180 @@
+{
+    "database": {
+        "api_server": {
+            "url": "mongodb://172.17.8.2:27017/feeds",
+            "options": {
+                "db": {
+                    "native_parser": false
+                }
+            }
+        },
+        "metrics_server": {
+            "url": "mongodb://172.17.8.2:27017/metrics",
+            "options": {
+                "db": {
+                    "native_parser": false
+                }
+            }
+        }
+    },
+    "documentation": {
+        "basePath": "http://local.api.feedient.com",
+        "apiVersion": "2.0.0",
+        "auth": "feedient",
+        "bind": {
+            "requiredRole": "DEVELOPER"
+        }
+    },
+    "i18n": {
+        "locales": ["en_GB", "en_US", "nl_NL", "nl_BE"],
+        "defaultLocale": "en_GB",
+        "directory":"./src/locales",
+        "updateFiles": true
+    },
+    "msgFormatter": {
+        "fallbackLanguage": "en_GB",
+        "fallbackFile": "errors",
+        "fallbackError": "An unknown error has occurred."
+    },
+    "logger": {
+        "subscribers": {
+            "console": ["log", "request", "ops"],
+            "logs/": ["request", "log", "ops"]
+        },
+        "extendedRequests": true
+    },
+    "client": {
+        "url": "http://local.feedient.com/",
+        "image_proxy": {
+            "instagram_avatars_images": "http://local.feedient.com/instagram-avatars-images/",
+            "instagram_avatars_photos_a": "http://local.feedient.com/instagram-avatars-photos-a/",
+            "instagram_avatars_photos_b": "http://local.feedient.com/instagram-avatars-photos-b/",
+            "instagram_avatars_photos_c": "http://local.feedient.com/instagram-avatars-photos-c/",
+            "instagram_avatars_photos_d": "http://local.feedient.com/instagram-avatars-photos-d/",
+            "instagram_avatars_photos_e": "http://local.feedient.com/instagram-avatars-photos-e/",
+            "instagram_avatars_photos_f": "http://local.feedient.com/instagram-avatars-photos-f/",
+            "instagram_avatars_photos_g": "http://local.feedient.com/instagram-avatars-photos-g/",
+            "instagram_avatars_photos_h": "http://local.feedient.com/instagram-avatars-photos-h/"
+        }
+    },
+    "server": {
+        "ip": "0.0.0.0",
+        "register_key_only": false,
+        "url": "http://local.api.feedient.com/",
+        "salt_work_factor": 10,
+        "cors_client_origins": [ "*" ],
+        "cors_headers": [ "Authorization", "Content-Type", "If-None-Match", "Bearer", "x-http-method-override" ],
+        "cors_methods": [ "GET", "HEAD", "POST", "PUT", "DELETE", "OPTIONS" ],
+        "cors_credentials": true,
+        "new_relic_enabled": false,
+        "socket_enabled": true,
+        "profiler": {
+            "enabled": true,
+            "ip": "0.0.0.0",
+            "port": 4000
+        },
+		"tests": {
+            "can_run": true,
+			"can_drop_db": true,
+            "can_init_data": true
+		}
+    },
+    "metrics": {
+        "ip": "127.0.0.1",
+        "port": 8088,
+        "enabled": false
+    },
+    "user": {
+        "default_language": "en_GB",
+        "default_role": "USER",
+        "default_workspace_name": "My Workspace",
+        "refresh_time_days": 7,
+        "roles": {
+            "GUEST": {
+                "rank": 0,
+                "name": "Guest"
+            },
+            "USER": {
+                "rank": 1,
+                "name": "User"
+            },
+            "USER_AD_FREE": {
+                "rank": 2,
+                "name": "User (Ad-Free)"
+            },
+            "PREMIUM": {
+                "rank": 3,
+                "name": "Premium User"
+            },
+            "DEVELOPER": {
+                "rank": 4,
+                "name": "Developer"
+            },
+            "ADMIN": {
+                "rank": 5,
+                "name": "Administrator"
+            }
+        }
+    },
+    "providers": {
+        "facebook": {
+            "clientID": "CLIENT ID HERE",
+            "clientSecret": "CLIENT SECRET HERE",
+            "callbackURL": "http://local.feedient.com/app/callback/facebook",
+            "accessTokenURL": "https://graph.facebook.com/v2.2/oauth/access_token",
+            "apiURL": "https://graph.facebook.com",
+            "apiVersion": "v2.2",
+            "pagesURL": "https://www.facebook.com/pages",
+            "streamTimeout": 90000
+        },
+        "twitter": {
+            "clientID": "CLIENT ID HERE",
+            "clientSecret": "CLIENT SECRET HERE",
+            "callbackURL": "http://local.feedient.com/app/callback/twitter",
+            "accessTokenURL": "https://twitter.com/oauth/access_token",
+            "requestTokenURL": "https://twitter.com/oauth/request_token",
+            "apiURL": "https://api.twitter.com/1.1",
+            "streamTimeout": 90000
+        },
+        "instagram": {
+            "clientID": "CLIENT ID HERE",
+            "clientSecret": "CLIENT SECRET HERE",
+            "callbackURL": "http://local.feedient.com/app/callback/instagram",
+            "accessTokenURL": "https://api.instagram.com/oauth/access_token",
+            "apiURL": "https://api.instagram.com/v1",
+            "streamTimeout": 90000
+        },
+        "youtube": {
+            "clientID": "CLIENT ID HERE",
+            "clientSecret": "CLIENT SECRET HERE",
+            "callbackURL": "http://local.feedient.com/app/callback/youtube",
+            "accessTokenURL": "https://accounts.google.com/o/oauth2/token",
+            "apiURL": "https://gdata.youtube.com/feeds/api",
+            "streamTimeout": 90000,
+            "developer_key": "YOUTUBE DEV KEY"
+        },
+        "tumblr": {
+            "clientID": "CLIENT ID HERE",
+            "clientSecret": "CLIENT SECRET HERE",
+            "callbackURL": "http://local.feedient.com/app/callback/tumblr",
+            "accessTokenURL": "http://www.tumblr.com/oauth/access_token",
+            "requestTokenURL": "http://www.tumblr.com/oauth/request_token",
+            "apiURL": "https://api.tumblr.com/v2",
+            "streamTimeout": 90000
+        },
+        "rss": {
+            "streamTimeout": 120000
+        }
+    },
+    "smtp": {
+        "service": "SendGrid",
+        "auth": {
+            "user": "SENDGRID NAME",
+            "pass": "SENDGRID PASSWORD"
+        }
+    }, 
+    "stripe": {
+        "secret_key": "STRIPE KEY",
+        "publishable_key": "PUBLISH KEY"
+    }
+}

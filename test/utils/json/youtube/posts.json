@@ -1,0 +1,1443 @@
+{
+	"version": "1.0",
+	"encoding": "UTF-8",
+	"feed": {
+		"xmlns": "http://www.w3.org/2005/Atom",
+		"xmlns$media": "http://search.yahoo.com/mrss/",
+		"xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+		"xmlns$gd": "http://schemas.google.com/g/2005",
+		"xmlns$yt": "http://gdata.youtube.com/schemas/2007",
+		"id": {
+			"$t": "http://gdata.youtube.com/feeds/api/users/UCdSyeBzNs_wJ1iFUIPzBMAQ/newsubscriptionvideos"
+		},
+		"updated": {
+			"$t": "2014-05-28T13:32:18.000Z"
+		},
+		"category": [
+			{
+				"scheme": "http://schemas.google.com/g/2005#kind",
+				"term": "http://gdata.youtube.com/schemas/2007#video"
+			}
+		],
+		"title": {
+			"$t": "New Subscription Videos for Xavier Geerinck",
+			"type": "text"
+		},
+		"logo": {
+			"$t": "http://www.gstatic.com/youtube/img/logo.png"
+		},
+		"link": [
+			{
+				"rel": "alternate",
+				"type": "text/html",
+				"href": "https://www.youtube.com/subscription_center"
+			},
+			{
+				"rel": "http://schemas.google.com/g/2005#feed",
+				"type": "application/atom+xml",
+				"href": "https://gdata.youtube.com/feeds/api/users/UCdSyeBzNs_wJ1iFUIPzBMAQ/newsubscriptionvideos"
+			},
+			{
+				"rel": "http://schemas.google.com/g/2005#batch",
+				"type": "application/atom+xml",
+				"href": "https://gdata.youtube.com/feeds/api/users/UCdSyeBzNs_wJ1iFUIPzBMAQ/newsubscriptionvideos/batch"
+			},
+			{
+				"rel": "self",
+				"type": "application/atom+xml",
+				"href": "https://gdata.youtube.com/feeds/api/users/UCdSyeBzNs_wJ1iFUIPzBMAQ/newsubscriptionvideos?alt=json&start-index=1&max-results=25&orderby=published"
+			},
+			{
+				"rel": "next",
+				"type": "application/atom+xml",
+				"href": "https://gdata.youtube.com/feeds/api/users/UCdSyeBzNs_wJ1iFUIPzBMAQ/newsubscriptionvideos?alt=json&start-index=26&max-results=25&orderby=published"
+			}
+		],
+		"author": [
+			{
+				"name": {
+					"$t": "YouTube"
+				},
+				"uri": {
+					"$t": "http://www.youtube.com/"
+				}
+			}
+		],
+		"generator": {
+			"$t": "YouTube data API",
+			"version": "2.1",
+			"uri": "http://gdata.youtube.com"
+		},
+		"openSearch$totalResults": {
+			"$t": 45
+		},
+		"openSearch$startIndex": {
+			"$t": 1
+		},
+		"openSearch$itemsPerPage": {
+			"$t": 25
+		},
+		"entry": [
+			{
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/9LQh5g2zOsM"
+				},
+				"published": {
+					"$t": "2014-05-28T07:24:42.000Z"
+				},
+				"updated": {
+					"$t": "2014-05-28T13:29:22.000Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/g/2005#kind",
+						"term": "http://gdata.youtube.com/schemas/2007#video"
+					},
+					{
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"term": "Tech",
+						"label": "Science & Technology"
+					}
+				],
+				"title": {
+					"$t": "[JP 日本語] Google Cast SDK 概要",
+					"type": "text"
+				},
+				"content": {
+					"$t": "Chromecast 向けアプリケーションを開発される皆さんのために Google Cast SDK が公開されました。このエピソードでは、Google Cast SDK の概要についてお話します。その他のエピソードは英語ですが、日本語キャプションが付いています。\nhttp://goo.gl/EW9Ngf\n開発者向けドキュメントはこちら\nhttp://goo.gl/55YrdO\nChromecast についてはこちら\nhttp://goo.gl/6nVCy8",
+					"type": "text"
+				},
+				"link": [
+					{
+						"rel": "alternate",
+						"type": "text/html",
+						"href": "https://www.youtube.com/watch?v=9LQh5g2zOsM&feature=youtube_gdata"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#video.ratings",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/videos/9LQh5g2zOsM/ratings"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#video.complaints",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/videos/9LQh5g2zOsM/complaints"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/videos/9LQh5g2zOsM/related"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile",
+						"type": "text/html",
+						"href": "https://m.youtube.com/details?v=9LQh5g2zOsM"
+					},
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/users/UCdSyeBzNs_wJ1iFUIPzBMAQ/newsubscriptionvideos/9LQh5g2zOsM"
+					}
+				],
+				"author": [
+					{
+						"name": {
+							"$t": "Google Developers"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/GoogleDevelopers"
+						}
+					}
+				],
+				"gd$comments": {
+					"gd$feedLink": {
+						"rel": "http://gdata.youtube.com/schemas/2007#comments",
+						"href": "https://gdata.youtube.com/feeds/api/videos/9LQh5g2zOsM/comments",
+						"countHint": 0
+					}
+				},
+				"yt$hd": {},
+				"media$group": {
+					"media$category": [
+						{
+							"$t": "Tech",
+							"label": "Science & Technology",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat"
+						}
+					],
+					"media$content": [
+						{
+							"url": "https://www.youtube.com/v/9LQh5g2zOsM?version=3&f=newsubscriptionvideos&d=ARs3Ttw-nK3UapN6-lpMbCoO88HsQjpE1a8d1GxQnGDm&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"medium": "video",
+							"isDefault": "true",
+							"expression": "full",
+							"duration": 317,
+							"yt$format": 5
+						},
+						{
+							"url": "rtsp://r6---sn-4g57kuek.c.youtube.com/ClQLENy73wIaSwnDOrMN5iG09BMYDSANFEgGUhVuZXdzdWJzY3JpcHRpb252aWRlb3NyIQEbN07cPpyt1GqTevpaTGwqDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"medium": "video",
+							"expression": "full",
+							"duration": 317,
+							"yt$format": 1
+						},
+						{
+							"url": "rtsp://r6---sn-4g57kuek.c.youtube.com/ClQLENy73wIaSwnDOrMN5iG09BMYESARFEgGUhVuZXdzdWJzY3JpcHRpb252aWRlb3NyIQEbN07cPpyt1GqTevpaTGwqDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"medium": "video",
+							"expression": "full",
+							"duration": 317,
+							"yt$format": 6
+						}
+					],
+					"media$description": {
+						"$t": "Chromecast 向けアプリケーションを開発される皆さんのために Google Cast SDK が公開されました。このエピソードでは、Google Cast SDK の概要についてお話します。その他のエピソードは英語ですが、日本語キャプションが付いています。\nhttp://goo.gl/EW9Ngf\n開発者向けドキュメントはこちら\nhttp://goo.gl/55YrdO\nChromecast についてはこちら\nhttp://goo.gl/6nVCy8",
+						"type": "plain"
+					},
+					"media$keywords": {},
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=9LQh5g2zOsM&feature=youtube_gdata_player"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i1.ytimg.com/vi/9LQh5g2zOsM/0.jpg",
+							"height": 360,
+							"width": 480,
+							"time": "00:02:38.500"
+						},
+						{
+							"url": "https://i1.ytimg.com/vi/9LQh5g2zOsM/1.jpg",
+							"height": 90,
+							"width": 120,
+							"time": "00:01:19.250"
+						},
+						{
+							"url": "https://i1.ytimg.com/vi/9LQh5g2zOsM/2.jpg",
+							"height": 90,
+							"width": 120,
+							"time": "00:02:38.500"
+						},
+						{
+							"url": "https://i1.ytimg.com/vi/9LQh5g2zOsM/3.jpg",
+							"height": 90,
+							"width": 120,
+							"time": "00:03:57.750"
+						}
+					],
+					"media$title": {
+						"$t": "[JP 日本語] Google Cast SDK 概要",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "317"
+					}
+				},
+				"gd$rating": {
+					"average": 5,
+					"max": 5,
+					"min": 1,
+					"numRaters": 9,
+					"rel": "http://schemas.google.com/g/2005#overall"
+				},
+				"yt$statistics": {
+					"favoriteCount": "0",
+					"viewCount": "301"
+				}
+			},
+			{
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/g-i-e5FDr9M"
+				},
+				"published": {
+					"$t": "2014-05-28T06:07:49.000Z"
+				},
+				"updated": {
+					"$t": "2014-05-28T13:30:57.000Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/g/2005#kind",
+						"term": "http://gdata.youtube.com/schemas/2007#video"
+					},
+					{
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"term": "Tech",
+						"label": "Science & Technology"
+					}
+				],
+				"title": {
+					"$t": "What Makes a Drone?",
+					"type": "text"
+				},
+				"content": {
+					"$t": "What makes a drone a drone? What are the components that you need to build your own? We chat with 3D Robotics about their Iris Drone and the individual pieces that let it autonomously fly around without direct control from a RC transmitter.",
+					"type": "text"
+				},
+				"link": [
+					{
+						"rel": "alternate",
+						"type": "text/html",
+						"href": "https://www.youtube.com/watch?v=g-i-e5FDr9M&feature=youtube_gdata"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#video.ratings",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/videos/g-i-e5FDr9M/ratings"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#video.complaints",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/videos/g-i-e5FDr9M/complaints"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/videos/g-i-e5FDr9M/related"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile",
+						"type": "text/html",
+						"href": "https://m.youtube.com/details?v=g-i-e5FDr9M"
+					},
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/users/UCdSyeBzNs_wJ1iFUIPzBMAQ/newsubscriptionvideos/g-i-e5FDr9M"
+					}
+				],
+				"author": [
+					{
+						"name": {
+							"$t": "Tested"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/testedcom"
+						}
+					}
+				],
+				"gd$comments": {
+					"gd$feedLink": {
+						"rel": "http://gdata.youtube.com/schemas/2007#comments",
+						"href": "https://gdata.youtube.com/feeds/api/videos/g-i-e5FDr9M/comments",
+						"countHint": 37
+					}
+				},
+				"yt$hd": {},
+				"media$group": {
+					"media$category": [
+						{
+							"$t": "Tech",
+							"label": "Science & Technology",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat"
+						}
+					],
+					"media$content": [
+						{
+							"url": "https://www.youtube.com/v/g-i-e5FDr9M?version=3&f=newsubscriptionvideos&d=ARs3Ttw-nK3UapN6-lpMbCoO88HsQjpE1a8d1GxQnGDm&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"medium": "video",
+							"isDefault": "true",
+							"expression": "full",
+							"duration": 291,
+							"yt$format": 5
+						},
+						{
+							"url": "rtsp://r5---sn-4g57kuer.c.youtube.com/ClQLENy73wIaSwnTr0ORe77ogxMYDSANFEgGUhVuZXdzdWJzY3JpcHRpb252aWRlb3NyIQEbN07cPpyt1GqTevpaTGwqDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"medium": "video",
+							"expression": "full",
+							"duration": 291,
+							"yt$format": 1
+						},
+						{
+							"url": "rtsp://r5---sn-4g57kuer.c.youtube.com/ClQLENy73wIaSwnTr0ORe77ogxMYESARFEgGUhVuZXdzdWJzY3JpcHRpb252aWRlb3NyIQEbN07cPpyt1GqTevpaTGwqDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"medium": "video",
+							"expression": "full",
+							"duration": 291,
+							"yt$format": 6
+						}
+					],
+					"media$description": {
+						"$t": "What makes a drone a drone? What are the components that you need to build your own? We chat with 3D Robotics about their Iris Drone and the individual pieces that let it autonomously fly around without direct control from a RC transmitter.",
+						"type": "plain"
+					},
+					"media$keywords": {},
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=g-i-e5FDr9M&feature=youtube_gdata_player"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i1.ytimg.com/vi/g-i-e5FDr9M/0.jpg",
+							"height": 360,
+							"width": 480,
+							"time": "00:02:25.500"
+						},
+						{
+							"url": "https://i1.ytimg.com/vi/g-i-e5FDr9M/1.jpg",
+							"height": 90,
+							"width": 120,
+							"time": "00:01:12.750"
+						},
+						{
+							"url": "https://i1.ytimg.com/vi/g-i-e5FDr9M/2.jpg",
+							"height": 90,
+							"width": 120,
+							"time": "00:02:25.500"
+						},
+						{
+							"url": "https://i1.ytimg.com/vi/g-i-e5FDr9M/3.jpg",
+							"height": 90,
+							"width": 120,
+							"time": "00:03:38.250"
+						}
+					],
+					"media$title": {
+						"$t": "What Makes a Drone?",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "291"
+					}
+				},
+				"gd$rating": {
+					"average": 4.896641,
+					"max": 5,
+					"min": 1,
+					"numRaters": 387,
+					"rel": "http://schemas.google.com/g/2005#overall"
+				},
+				"yt$statistics": {
+					"favoriteCount": "0",
+					"viewCount": "5394"
+				}
+			},
+			{
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/oUiOylPbfV0"
+				},
+				"published": {
+					"$t": "2014-05-28T01:19:25.000Z"
+				},
+				"updated": {
+					"$t": "2014-05-28T13:32:18.000Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/g/2005#kind",
+						"term": "http://gdata.youtube.com/schemas/2007#video"
+					},
+					{
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"term": "Games",
+						"label": "Gaming"
+					}
+				],
+				"title": {
+					"$t": "Pentakill - Lightbringer",
+					"type": "text"
+				},
+				"content": {
+					"$t": "http://na.pentakillmusic.com/en/\n\nFellow armsmen, I ask you,\nWill you follow me tonight to break their spine,\nAnd reclaim what once was mine?\nThose cravens.\n\nBackstabbed me, deceived me,\nNever shall I tolerate their crimes again,\nNow let the hunt begin.\n\n7000 souls, scared and daunted, such tale of woe,\nNot too long ago, this village was a golden \nscene of hope.\n\nCall down the reckoning,\nTo bring back hope and peace,\nRestore our gloria,\nTo live forever.\n\nBring down the dark regime,\nI know how to unleash eternal power,\nLead us to order,\nI am the Lightbringer!\n\nFellow warriors, I ask you,\nShould my campaign come to an end?\nThere's way more to avenge.\n\n15 million souls,\nLiving in this realm without much hope,\nNot too long ago, this kingdom was a golden \nstate of hope.",
+					"type": "text"
+				},
+				"link": [
+					{
+						"rel": "alternate",
+						"type": "text/html",
+						"href": "https://www.youtube.com/watch?v=oUiOylPbfV0&feature=youtube_gdata"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#video.ratings",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/videos/oUiOylPbfV0/ratings"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#video.complaints",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/videos/oUiOylPbfV0/complaints"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/videos/oUiOylPbfV0/related"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile",
+						"type": "text/html",
+						"href": "https://m.youtube.com/details?v=oUiOylPbfV0"
+					},
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/users/UCdSyeBzNs_wJ1iFUIPzBMAQ/newsubscriptionvideos/oUiOylPbfV0"
+					}
+				],
+				"author": [
+					{
+						"name": {
+							"$t": "League of Legends"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/RiotGamesInc"
+						}
+					}
+				],
+				"gd$comments": {
+					"gd$feedLink": {
+						"rel": "http://gdata.youtube.com/schemas/2007#comments",
+						"href": "https://gdata.youtube.com/feeds/api/videos/oUiOylPbfV0/comments",
+						"countHint": 3954
+					}
+				},
+				"yt$hd": {},
+				"media$group": {
+					"media$category": [
+						{
+							"$t": "Games",
+							"label": "Gaming",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat"
+						}
+					],
+					"media$content": [
+						{
+							"url": "https://www.youtube.com/v/oUiOylPbfV0?version=3&f=newsubscriptionvideos&d=ARs3Ttw-nK3UapN6-lpMbCoO88HsQjpE1a8d1GxQnGDm&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"medium": "video",
+							"isDefault": "true",
+							"expression": "full",
+							"duration": 297,
+							"yt$format": 5
+						},
+						{
+							"url": "rtsp://r1---sn-4g57kuek.c.youtube.com/ClQLENy73wIaSwldfdtTyo5IoRMYDSANFEgGUhVuZXdzdWJzY3JpcHRpb252aWRlb3NyIQEbN07cPpyt1GqTevpaTGwqDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"medium": "video",
+							"expression": "full",
+							"duration": 297,
+							"yt$format": 1
+						},
+						{
+							"url": "rtsp://r1---sn-4g57kuek.c.youtube.com/ClQLENy73wIaSwldfdtTyo5IoRMYESARFEgGUhVuZXdzdWJzY3JpcHRpb252aWRlb3NyIQEbN07cPpyt1GqTevpaTGwqDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"medium": "video",
+							"expression": "full",
+							"duration": 297,
+							"yt$format": 6
+						}
+					],
+					"media$description": {
+						"$t": "http://na.pentakillmusic.com/en/\n\nFellow armsmen, I ask you,\nWill you follow me tonight to break their spine,\nAnd reclaim what once was mine?\nThose cravens.\n\nBackstabbed me, deceived me,\nNever shall I tolerate their crimes again,\nNow let the hunt begin.\n\n7000 souls, scared and daunted, such tale of woe,\nNot too long ago, this village was a golden \nscene of hope.\n\nCall down the reckoning,\nTo bring back hope and peace,\nRestore our gloria,\nTo live forever.\n\nBring down the dark regime,\nI know how to unleash eternal power,\nLead us to order,\nI am the Lightbringer!\n\nFellow warriors, I ask you,\nShould my campaign come to an end?\nThere's way more to avenge.\n\n15 million souls,\nLiving in this realm without much hope,\nNot too long ago, this kingdom was a golden \nstate of hope.",
+						"type": "plain"
+					},
+					"media$keywords": {},
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=oUiOylPbfV0&feature=youtube_gdata_player"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i1.ytimg.com/vi/oUiOylPbfV0/0.jpg",
+							"height": 360,
+							"width": 480,
+							"time": "00:02:28.500"
+						},
+						{
+							"url": "https://i1.ytimg.com/vi/oUiOylPbfV0/1.jpg",
+							"height": 90,
+							"width": 120,
+							"time": "00:01:14.250"
+						},
+						{
+							"url": "https://i1.ytimg.com/vi/oUiOylPbfV0/2.jpg",
+							"height": 90,
+							"width": 120,
+							"time": "00:02:28.500"
+						},
+						{
+							"url": "https://i1.ytimg.com/vi/oUiOylPbfV0/3.jpg",
+							"height": 90,
+							"width": 120,
+							"time": "00:03:42.750"
+						}
+					],
+					"media$title": {
+						"$t": "Pentakill - Lightbringer",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "297"
+					}
+				},
+				"gd$rating": {
+					"average": 4.874605,
+					"max": 5,
+					"min": 1,
+					"numRaters": 41469,
+					"rel": "http://schemas.google.com/g/2005#overall"
+				},
+				"yt$statistics": {
+					"favoriteCount": "0",
+					"viewCount": "544146"
+				}
+			},
+			{
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/M1S-QP3NWhk"
+				},
+				"published": {
+					"$t": "2014-05-27T14:00:05.000Z"
+				},
+				"updated": {
+					"$t": "2014-05-28T13:32:11.000Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/g/2005#kind",
+						"term": "http://gdata.youtube.com/schemas/2007#video"
+					},
+					{
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"term": "Howto",
+						"label": "Howto & Style"
+					}
+				],
+				"title": {
+					"$t": "Lamburgini Linguine - Epic Meal Time",
+					"type": "text"
+				},
+				"content": {
+					"$t": "We're making a TV show! Still got love for the internet though! This is the Lamburgini Linguine\n\nLIKE/FAV and SHARE\n\nOrder our NEW cookbook!\nAmazon: http://www.amazon.com/exec/obidos/ASIN/147674601X?tag=simonsayscom\nB&N: http://www.barnesandnoble.com/w/epic-meal-time-harley-morenstein/1116055728?ean=9781476746012&itm=1&usri=9781476746012&cm_mmc=AFFILIATES-_-Linkshare-_-PwUJvmDcu1U-_-10:1&r=1,%201\nBAM: http://www.booksamillion.com/ncom/books?isbn=147674601X\niBooks: https://itunes.apple.com/us/book/epic-meal-time/id673578486?mt=11\n\nDownload Flappy Bearded Bacon!\nhttps://itunes.apple.com/ca/app/flappy-bearded-bacon/id839866270?mt=8\n\nSHIRTS, HATS, HOODIES, and COOKING SETS:\nhttp://shop.epicmealtime.com\n\nLamburgini Linguine - Epic Meal Time",
+					"type": "text"
+				},
+				"link": [
+					{
+						"rel": "alternate",
+						"type": "text/html",
+						"href": "https://www.youtube.com/watch?v=M1S-QP3NWhk&feature=youtube_gdata"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#video.ratings",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/videos/M1S-QP3NWhk/ratings"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#video.complaints",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/videos/M1S-QP3NWhk/complaints"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/videos/M1S-QP3NWhk/related"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile",
+						"type": "text/html",
+						"href": "https://m.youtube.com/details?v=M1S-QP3NWhk"
+					},
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/users/UCdSyeBzNs_wJ1iFUIPzBMAQ/newsubscriptionvideos/M1S-QP3NWhk"
+					}
+				],
+				"author": [
+					{
+						"name": {
+							"$t": "Epic Meal Time"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/EpicMealTime"
+						}
+					}
+				],
+				"gd$comments": {
+					"gd$feedLink": {
+						"rel": "http://gdata.youtube.com/schemas/2007#comments",
+						"href": "https://gdata.youtube.com/feeds/api/videos/M1S-QP3NWhk/comments",
+						"countHint": 375
+					}
+				},
+				"yt$hd": {},
+				"media$group": {
+					"media$category": [
+						{
+							"$t": "Howto",
+							"label": "Howto & Style",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat"
+						}
+					],
+					"media$content": [
+						{
+							"url": "https://www.youtube.com/v/M1S-QP3NWhk?version=3&f=newsubscriptionvideos&d=ARs3Ttw-nK3UapN6-lpMbCoO88HsQjpE1a8d1GxQnGDm&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"medium": "video",
+							"isDefault": "true",
+							"expression": "full",
+							"duration": 177,
+							"yt$format": 5
+						},
+						{
+							"url": "rtsp://r8---sn-4g57kuee.c.youtube.com/ClQLENy73wIaSwkZWs39QL5UMxMYDSANFEgGUhVuZXdzdWJzY3JpcHRpb252aWRlb3NyIQEbN07cPpyt1GqTevpaTGwqDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"medium": "video",
+							"expression": "full",
+							"duration": 177,
+							"yt$format": 1
+						},
+						{
+							"url": "rtsp://r8---sn-4g57kuee.c.youtube.com/ClQLENy73wIaSwkZWs39QL5UMxMYESARFEgGUhVuZXdzdWJzY3JpcHRpb252aWRlb3NyIQEbN07cPpyt1GqTevpaTGwqDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"medium": "video",
+							"expression": "full",
+							"duration": 177,
+							"yt$format": 6
+						}
+					],
+					"media$description": {
+						"$t": "We're making a TV show! Still got love for the internet though! This is the Lamburgini Linguine\n\nLIKE/FAV and SHARE\n\nOrder our NEW cookbook!\nAmazon: http://www.amazon.com/exec/obidos/ASIN/147674601X?tag=simonsayscom\nB&N: http://www.barnesandnoble.com/w/epic-meal-time-harley-morenstein/1116055728?ean=9781476746012&itm=1&usri=9781476746012&cm_mmc=AFFILIATES-_-Linkshare-_-PwUJvmDcu1U-_-10:1&r=1,%201\nBAM: http://www.booksamillion.com/ncom/books?isbn=147674601X\niBooks: https://itunes.apple.com/us/book/epic-meal-time/id673578486?mt=11\n\nDownload Flappy Bearded Bacon!\nhttps://itunes.apple.com/ca/app/flappy-bearded-bacon/id839866270?mt=8\n\nSHIRTS, HATS, HOODIES, and COOKING SETS:\nhttp://shop.epicmealtime.com\n\nLamburgini Linguine - Epic Meal Time",
+						"type": "plain"
+					},
+					"media$keywords": {},
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=M1S-QP3NWhk&feature=youtube_gdata_player"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i1.ytimg.com/vi/M1S-QP3NWhk/0.jpg",
+							"height": 360,
+							"width": 480,
+							"time": "00:01:28.500"
+						},
+						{
+							"url": "https://i1.ytimg.com/vi/M1S-QP3NWhk/1.jpg",
+							"height": 90,
+							"width": 120,
+							"time": "00:00:44.250"
+						},
+						{
+							"url": "https://i1.ytimg.com/vi/M1S-QP3NWhk/2.jpg",
+							"height": 90,
+							"width": 120,
+							"time": "00:01:28.500"
+						},
+						{
+							"url": "https://i1.ytimg.com/vi/M1S-QP3NWhk/3.jpg",
+							"height": 90,
+							"width": 120,
+							"time": "00:02:12.750"
+						}
+					],
+					"media$title": {
+						"$t": "Lamburgini Linguine - Epic Meal Time",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "177"
+					}
+				},
+				"gd$rating": {
+					"average": 4.933893,
+					"max": 5,
+					"min": 1,
+					"numRaters": 7261,
+					"rel": "http://schemas.google.com/g/2005#overall"
+				},
+				"yt$statistics": {
+					"favoriteCount": "0",
+					"viewCount": "167474"
+				}
+			},
+			{
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/mZ4Ph5V_LQ8"
+				},
+				"published": {
+					"$t": "2014-05-27T07:12:26.000Z"
+				},
+				"updated": {
+					"$t": "2014-05-28T12:59:44.000Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/g/2005#kind",
+						"term": "http://gdata.youtube.com/schemas/2007#video"
+					},
+					{
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"term": "Tech",
+						"label": "Science & Technology"
+					}
+				],
+				"title": {
+					"$t": "We Make Papercraft Big Head Costumes!",
+					"type": "text"
+				},
+				"content": {
+					"$t": "We made giant papercraft versions of our heads as masks to wear and walk around this year's Maker Faire. Learn how we constructed these supersized heads using a combination of photogrammetry modelling, Pepakura software, and lots of cutting and gluing. How do you think they turned out?",
+					"type": "text"
+				},
+				"link": [
+					{
+						"rel": "alternate",
+						"type": "text/html",
+						"href": "https://www.youtube.com/watch?v=mZ4Ph5V_LQ8&feature=youtube_gdata"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#video.ratings",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/videos/mZ4Ph5V_LQ8/ratings"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#video.complaints",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/videos/mZ4Ph5V_LQ8/complaints"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/videos/mZ4Ph5V_LQ8/related"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile",
+						"type": "text/html",
+						"href": "https://m.youtube.com/details?v=mZ4Ph5V_LQ8"
+					},
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/users/UCdSyeBzNs_wJ1iFUIPzBMAQ/newsubscriptionvideos/mZ4Ph5V_LQ8"
+					}
+				],
+				"author": [
+					{
+						"name": {
+							"$t": "Tested"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/testedcom"
+						}
+					}
+				],
+				"gd$comments": {
+					"gd$feedLink": {
+						"rel": "http://gdata.youtube.com/schemas/2007#comments",
+						"href": "https://gdata.youtube.com/feeds/api/videos/mZ4Ph5V_LQ8/comments",
+						"countHint": 105
+					}
+				},
+				"yt$hd": {},
+				"media$group": {
+					"media$category": [
+						{
+							"$t": "Tech",
+							"label": "Science & Technology",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat"
+						}
+					],
+					"media$content": [
+						{
+							"url": "https://www.youtube.com/v/mZ4Ph5V_LQ8?version=3&f=newsubscriptionvideos&d=ARs3Ttw-nK3UapN6-lpMbCoO88HsQjpE1a8d1GxQnGDm&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"medium": "video",
+							"isDefault": "true",
+							"expression": "full",
+							"duration": 539,
+							"yt$format": 5
+						},
+						{
+							"url": "rtsp://r8---sn-4g57kues.c.youtube.com/ClQLENy73wIaSwkPLX-Vhw-emRMYDSANFEgGUhVuZXdzdWJzY3JpcHRpb252aWRlb3NyIQEbN07cPpyt1GqTevpaTGwqDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"medium": "video",
+							"expression": "full",
+							"duration": 539,
+							"yt$format": 1
+						},
+						{
+							"url": "rtsp://r8---sn-4g57kues.c.youtube.com/ClQLENy73wIaSwkPLX-Vhw-emRMYESARFEgGUhVuZXdzdWJzY3JpcHRpb252aWRlb3NyIQEbN07cPpyt1GqTevpaTGwqDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"medium": "video",
+							"expression": "full",
+							"duration": 539,
+							"yt$format": 6
+						}
+					],
+					"media$description": {
+						"$t": "We made giant papercraft versions of our heads as masks to wear and walk around this year's Maker Faire. Learn how we constructed these supersized heads using a combination of photogrammetry modelling, Pepakura software, and lots of cutting and gluing. How do you think they turned out?",
+						"type": "plain"
+					},
+					"media$keywords": {},
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=mZ4Ph5V_LQ8&feature=youtube_gdata_player"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i1.ytimg.com/vi/mZ4Ph5V_LQ8/0.jpg",
+							"height": 360,
+							"width": 480,
+							"time": "00:04:29.500"
+						},
+						{
+							"url": "https://i1.ytimg.com/vi/mZ4Ph5V_LQ8/1.jpg",
+							"height": 90,
+							"width": 120,
+							"time": "00:02:14.750"
+						},
+						{
+							"url": "https://i1.ytimg.com/vi/mZ4Ph5V_LQ8/2.jpg",
+							"height": 90,
+							"width": 120,
+							"time": "00:04:29.500"
+						},
+						{
+							"url": "https://i1.ytimg.com/vi/mZ4Ph5V_LQ8/3.jpg",
+							"height": 90,
+							"width": 120,
+							"time": "00:06:44.250"
+						}
+					],
+					"media$title": {
+						"$t": "We Make Papercraft Big Head Costumes!",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "539"
+					}
+				},
+				"gd$rating": {
+					"average": 4.957252,
+					"max": 5,
+					"min": 1,
+					"numRaters": 1310,
+					"rel": "http://schemas.google.com/g/2005#overall"
+				},
+				"yt$statistics": {
+					"favoriteCount": "0",
+					"viewCount": "30757"
+				}
+			},
+			{
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/vI-0OYuE76k"
+				},
+				"published": {
+					"$t": "2014-05-26T16:52:58.000Z"
+				},
+				"updated": {
+					"$t": "2014-05-28T13:17:31.000Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/g/2005#kind",
+						"term": "http://gdata.youtube.com/schemas/2007#video"
+					},
+					{
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"term": "Tech",
+						"label": "Science & Technology"
+					}
+				],
+				"title": {
+					"$t": "Meet Titanoboa, the Giant Robot Snake",
+					"type": "text"
+				},
+				"content": {
+					"$t": "We encounter Titanoboa, a 50-foot long mechanical snake built by the makers at the Canadian design collective eatArt. This remote-controlled snake weighs over a ton, and even has a saddle for brave adventurers to mount. Just listen to the sound it makes when it moves!",
+					"type": "text"
+				},
+				"link": [
+					{
+						"rel": "alternate",
+						"type": "text/html",
+						"href": "https://www.youtube.com/watch?v=vI-0OYuE76k&feature=youtube_gdata"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#video.ratings",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/videos/vI-0OYuE76k/ratings"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#video.complaints",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/videos/vI-0OYuE76k/complaints"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/videos/vI-0OYuE76k/related"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile",
+						"type": "text/html",
+						"href": "https://m.youtube.com/details?v=vI-0OYuE76k"
+					},
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/users/UCdSyeBzNs_wJ1iFUIPzBMAQ/newsubscriptionvideos/vI-0OYuE76k"
+					}
+				],
+				"author": [
+					{
+						"name": {
+							"$t": "Tested"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/testedcom"
+						}
+					}
+				],
+				"gd$comments": {
+					"gd$feedLink": {
+						"rel": "http://gdata.youtube.com/schemas/2007#comments",
+						"href": "https://gdata.youtube.com/feeds/api/videos/vI-0OYuE76k/comments",
+						"countHint": 109
+					}
+				},
+				"yt$hd": {},
+				"media$group": {
+					"media$category": [
+						{
+							"$t": "Tech",
+							"label": "Science & Technology",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat"
+						}
+					],
+					"media$content": [
+						{
+							"url": "https://www.youtube.com/v/vI-0OYuE76k?version=3&f=newsubscriptionvideos&d=ARs3Ttw-nK3UapN6-lpMbCoO88HsQjpE1a8d1GxQnGDm&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"medium": "video",
+							"isDefault": "true",
+							"expression": "full",
+							"duration": 311,
+							"yt$format": 5
+						},
+						{
+							"url": "rtsp://r2---sn-4g57kue6.c.youtube.com/ClQLENy73wIaSwmp74SLObSPvBMYDSANFEgGUhVuZXdzdWJzY3JpcHRpb252aWRlb3NyIQEbN07cPpyt1GqTevpaTGwqDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"medium": "video",
+							"expression": "full",
+							"duration": 311,
+							"yt$format": 1
+						},
+						{
+							"url": "rtsp://r2---sn-4g57kue6.c.youtube.com/ClQLENy73wIaSwmp74SLObSPvBMYESARFEgGUhVuZXdzdWJzY3JpcHRpb252aWRlb3NyIQEbN07cPpyt1GqTevpaTGwqDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"medium": "video",
+							"expression": "full",
+							"duration": 311,
+							"yt$format": 6
+						}
+					],
+					"media$description": {
+						"$t": "We encounter Titanoboa, a 50-foot long mechanical snake built by the makers at the Canadian design collective eatArt. This remote-controlled snake weighs over a ton, and even has a saddle for brave adventurers to mount. Just listen to the sound it makes when it moves!",
+						"type": "plain"
+					},
+					"media$keywords": {},
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=vI-0OYuE76k&feature=youtube_gdata_player"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i1.ytimg.com/vi/vI-0OYuE76k/0.jpg",
+							"height": 360,
+							"width": 480,
+							"time": "00:02:35.500"
+						},
+						{
+							"url": "https://i1.ytimg.com/vi/vI-0OYuE76k/1.jpg",
+							"height": 90,
+							"width": 120,
+							"time": "00:01:17.750"
+						},
+						{
+							"url": "https://i1.ytimg.com/vi/vI-0OYuE76k/2.jpg",
+							"height": 90,
+							"width": 120,
+							"time": "00:02:35.500"
+						},
+						{
+							"url": "https://i1.ytimg.com/vi/vI-0OYuE76k/3.jpg",
+							"height": 90,
+							"width": 120,
+							"time": "00:03:53.250"
+						}
+					],
+					"media$title": {
+						"$t": "Meet Titanoboa, the Giant Robot Snake",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "311"
+					}
+				},
+				"gd$rating": {
+					"average": 4.9514313,
+					"max": 5,
+					"min": 1,
+					"numRaters": 1153,
+					"rel": "http://schemas.google.com/g/2005#overall"
+				},
+				"yt$statistics": {
+					"favoriteCount": "0",
+					"viewCount": "47745"
+				}
+			},
+			{
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/Bnq96pn4O9Q"
+				},
+				"published": {
+					"$t": "2014-05-26T08:00:22.000Z"
+				},
+				"updated": {
+					"$t": "2014-05-28T12:34:51.000Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/g/2005#kind",
+						"term": "http://gdata.youtube.com/schemas/2007#video"
+					},
+					{
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"term": "Tech",
+						"label": "Science & Technology"
+					}
+				],
+				"title": {
+					"$t": "Show and Tell: RC Nano-Quadcopter",
+					"type": "text"
+				},
+				"content": {
+					"$t": "More fun with remote controlled quadrotors! For this week's Show and Tell, Norm flies the Estes Proto X, a small nano-quad that's fun to fly indoors and a cheap way to get acquainted with the standard two-stick controls of a quadcopter.",
+					"type": "text"
+				},
+				"link": [
+					{
+						"rel": "alternate",
+						"type": "text/html",
+						"href": "https://www.youtube.com/watch?v=Bnq96pn4O9Q&feature=youtube_gdata"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#video.ratings",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/videos/Bnq96pn4O9Q/ratings"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#video.complaints",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/videos/Bnq96pn4O9Q/complaints"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/videos/Bnq96pn4O9Q/related"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile",
+						"type": "text/html",
+						"href": "https://m.youtube.com/details?v=Bnq96pn4O9Q"
+					},
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/users/UCdSyeBzNs_wJ1iFUIPzBMAQ/newsubscriptionvideos/Bnq96pn4O9Q"
+					}
+				],
+				"author": [
+					{
+						"name": {
+							"$t": "Tested"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/testedcom"
+						}
+					}
+				],
+				"gd$comments": {
+					"gd$feedLink": {
+						"rel": "http://gdata.youtube.com/schemas/2007#comments",
+						"href": "https://gdata.youtube.com/feeds/api/videos/Bnq96pn4O9Q/comments",
+						"countHint": 65
+					}
+				},
+				"yt$hd": {},
+				"media$group": {
+					"media$category": [
+						{
+							"$t": "Tech",
+							"label": "Science & Technology",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat"
+						}
+					],
+					"media$content": [
+						{
+							"url": "https://www.youtube.com/v/Bnq96pn4O9Q?version=3&f=newsubscriptionvideos&d=ARs3Ttw-nK3UapN6-lpMbCoO88HsQjpE1a8d1GxQnGDm&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"medium": "video",
+							"isDefault": "true",
+							"expression": "full",
+							"duration": 235,
+							"yt$format": 5
+						},
+						{
+							"url": "rtsp://r4---sn-4g57kues.c.youtube.com/ClQLENy73wIaSwnUO_iZ6r16BhMYDSANFEgGUhVuZXdzdWJzY3JpcHRpb252aWRlb3NyIQEbN07cPpyt1GqTevpaTGwqDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"medium": "video",
+							"expression": "full",
+							"duration": 235,
+							"yt$format": 1
+						},
+						{
+							"url": "rtsp://r4---sn-4g57kues.c.youtube.com/ClQLENy73wIaSwnUO_iZ6r16BhMYESARFEgGUhVuZXdzdWJzY3JpcHRpb252aWRlb3NyIQEbN07cPpyt1GqTevpaTGwqDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"medium": "video",
+							"expression": "full",
+							"duration": 235,
+							"yt$format": 6
+						}
+					],
+					"media$description": {
+						"$t": "More fun with remote controlled quadrotors! For this week's Show and Tell, Norm flies the Estes Proto X, a small nano-quad that's fun to fly indoors and a cheap way to get acquainted with the standard two-stick controls of a quadcopter.",
+						"type": "plain"
+					},
+					"media$keywords": {},
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=Bnq96pn4O9Q&feature=youtube_gdata_player"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i1.ytimg.com/vi/Bnq96pn4O9Q/0.jpg",
+							"height": 360,
+							"width": 480,
+							"time": "00:01:57.500"
+						},
+						{
+							"url": "https://i1.ytimg.com/vi/Bnq96pn4O9Q/1.jpg",
+							"height": 90,
+							"width": 120,
+							"time": "00:00:58.750"
+						},
+						{
+							"url": "https://i1.ytimg.com/vi/Bnq96pn4O9Q/2.jpg",
+							"height": 90,
+							"width": 120,
+							"time": "00:01:57.500"
+						},
+						{
+							"url": "https://i1.ytimg.com/vi/Bnq96pn4O9Q/3.jpg",
+							"height": 90,
+							"width": 120,
+							"time": "00:02:56.250"
+						}
+					],
+					"media$title": {
+						"$t": "Show and Tell: RC Nano-Quadcopter",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "235"
+					}
+				},
+				"gd$rating": {
+					"average": 4.9104476,
+					"max": 5,
+					"min": 1,
+					"numRaters": 670,
+					"rel": "http://schemas.google.com/g/2005#overall"
+				},
+				"yt$statistics": {
+					"favoriteCount": "0",
+					"viewCount": "27612"
+				}
+			},
+			{
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/fclNKXmRZyg"
+				},
+				"published": {
+					"$t": "2014-05-24T14:00:03.000Z"
+				},
+				"updated": {
+					"$t": "2014-05-28T13:29:56.000Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/g/2005#kind",
+						"term": "http://gdata.youtube.com/schemas/2007#video"
+					},
+					{
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"term": "Howto",
+						"label": "Howto & Style"
+					}
+				],
+				"title": {
+					"$t": "Chili Bread Bowls - Handle It",
+					"type": "text"
+				},
+				"content": {
+					"$t": "Josh a.k.a. Epic Mook is going to teach you a classic EpicMealTime recipe. The meat trifecta chili with a custom bread bowl!\n\nLIKE/FAVORITE and SHARE for new recipes each week\n\nWe slashed the price on the cooking arsenal! Click this link to order one: http://shop.epicmealtime.com\n\nAnd order the NEW COOKBOOK from any of these links:\nAmazon: http://www.amazon.com/exec/obidos/ASIN/147674601X?tag=simonsayscom\nB&N: http://www.barnesandnoble.com/w/epic-meal-time-harley-morenstein/1116055728?ean=9781476746012&itm=1&usri=9781476746012&cm_mmc=AFFILIATES-_-Linkshare-_-PwUJvmDcu1U-_-10:1&r=1,%201\nBAM: http://www.booksamillion.com/ncom/books?isbn=147674601X\niBooks: https://itunes.apple.com/us/book/epic-meal-time/id673578486?mt=11\n\nMake sure to watch Epic Gaming Time\nhttp://www.youtube.com/originalgamershow\n\nChili Bread Bowls - Handle It",
+					"type": "text"
+				},
+				"link": [
+					{
+						"rel": "alternate",
+						"type": "text/html",
+						"href": "https://www.youtube.com/watch?v=fclNKXmRZyg&feature=youtube_gdata"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#video.ratings",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/videos/fclNKXmRZyg/ratings"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#video.complaints",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/videos/fclNKXmRZyg/complaints"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/videos/fclNKXmRZyg/related"
+					},
+					{
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile",
+						"type": "text/html",
+						"href": "https://m.youtube.com/details?v=fclNKXmRZyg"
+					},
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://gdata.youtube.com/feeds/api/users/UCdSyeBzNs_wJ1iFUIPzBMAQ/newsubscriptionvideos/fclNKXmRZyg"
+					}
+				],
+				"author": [
+					{
+						"name": {
+							"$t": "Epic Meal Time"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/EpicMealTime"
+						}
+					}
+				],
+				"gd$comments": {
+					"gd$feedLink": {
+						"rel": "http://gdata.youtube.com/schemas/2007#comments",
+						"href": "https://gdata.youtube.com/feeds/api/videos/fclNKXmRZyg/comments",
+						"countHint": 340
+					}
+				},
+				"yt$hd": {},
+				"media$group": {
+					"media$category": [
+						{
+							"$t": "Howto",
+							"label": "Howto & Style",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat"
+						}
+					],
+					"media$content": [
+						{
+							"url": "https://www.youtube.com/v/fclNKXmRZyg?version=3&f=newsubscriptionvideos&d=ARs3Ttw-nK3UapN6-lpMbCoO88HsQjpE1a8d1GxQnGDm&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"medium": "video",
+							"isDefault": "true",
+							"expression": "full",
+							"duration": 273,
+							"yt$format": 5
+						},
+						{
+							"url": "rtsp://r3---sn-4g57kuee.c.youtube.com/ClQLENy73wIaSwkoZ5F5KU3JfRMYDSANFEgGUhVuZXdzdWJzY3JpcHRpb252aWRlb3NyIQEbN07cPpyt1GqTevpaTGwqDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"medium": "video",
+							"expression": "full",
+							"duration": 273,
+							"yt$format": 1
+						},
+						{
+							"url": "rtsp://r3---sn-4g57kuee.c.youtube.com/ClQLENy73wIaSwkoZ5F5KU3JfRMYESARFEgGUhVuZXdzdWJzY3JpcHRpb252aWRlb3NyIQEbN07cPpyt1GqTevpaTGwqDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"medium": "video",
+							"expression": "full",
+							"duration": 273,
+							"yt$format": 6
+						}
+					],
+					"media$description": {
+						"$t": "Josh a.k.a. Epic Mook is going to teach you a classic EpicMealTime recipe. The meat trifecta chili with a custom bread bowl!\n\nLIKE/FAVORITE and SHARE for new recipes each week\n\nWe slashed the price on the cooking arsenal! Click this link to order one: http://shop.epicmealtime.com\n\nAnd order the NEW COOKBOOK from any of these links:\nAmazon: http://www.amazon.com/exec/obidos/ASIN/147674601X?tag=simonsayscom\nB&N: http://www.barnesandnoble.com/w/epic-meal-time-harley-morenstein/1116055728?ean=9781476746012&itm=1&usri=9781476746012&cm_mmc=AFFILIATES-_-Linkshare-_-PwUJvmDcu1U-_-10:1&r=1,%201\nBAM: http://www.booksamillion.com/ncom/books?isbn=147674601X\niBooks: https://itunes.apple.com/us/book/epic-meal-time/id673578486?mt=11\n\nMake sure to watch Epic Gaming Time\nhttp://www.youtube.com/originalgamershow\n\nChili Bread Bowls - Handle It",
+						"type": "plain"
+					},
+					"media$keywords": {},
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=fclNKXmRZyg&feature=youtube_gdata_player"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i1.ytimg.com/vi/fclNKXmRZyg/0.jpg",
+							"height": 360,
+							"width": 480,
+							"time": "00:02:16.500"
+						},
+						{
+							"url": "https://i1.ytimg.com/vi/fclNKXmRZyg/1.jpg",
+							"height": 90,
+							"width": 120,
+							"time": "00:01:08.250"
+						},
+						{
+							"url": "https://i1.ytimg.com/vi/fclNKXmRZyg/2.jpg",
+							"height": 90,
+							"width": 120,
+							"time": "00:02:16.500"
+						},
+						{
+							"url": "https://i1.ytimg.com/vi/fclNKXmRZyg/3.jpg",
+							"height": 90,
+							"width": 120,
+							"time": "00:03:24.750"
+						}
+					],
+					"media$title": {
+						"$t": "Chili Bread Bowls - Handle It",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "273"
+					}
+				},
+				"gd$rating": {
+					"average": 4.97121,
+					"max": 5,
+					"min": 1,
+					"numRaters": 8892,
+					"rel": "http://schemas.google.com/g/2005#overall"
+				},
+				"yt$statistics": {
+					"favoriteCount": "0",
+					"viewCount": "200195"
+				}
+			}
+		]
+	}
+}

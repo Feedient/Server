@@ -1,0 +1,15 @@
+{
+  "name": "FeedientMetrics",
+  "description": "Plugin so we can send metric server calls by the request scope.",
+  "version": "0.1.0",
+  "author": "Xavier Geerinck <xavier@feedient.com>",
+  "private": true,
+  "main": "index",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "hapi": "2.x.x",
+    "i18next": "*"
+  }
+}
